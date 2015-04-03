@@ -1,8 +1,6 @@
 Flickr API!
 ===================
 
-The Flickr API is available for non-commercial use by outside developers. Commercial use is possible by prior arrangement.
-
 ----------
 Overview
 -------------
@@ -37,42 +35,5 @@ Login Flow
 5. return back to app, passing oauth_verifier
 6. grants acces
 
-Examples - Flickr API with NodeJs
-------------------------------------
-- install module:
-```
-npm install flickrapi
-```
-
-- login with authorization(full Flickr API) or token only(public API):
-```
-var Flickr = require("flickrapi"),
-    flickrOptions = {
-      api_key: "API key that you get from Flickr",
-      secret: "API key secret that you get from Flickr"
-    };
- 
-Flickr.authenticate(flickrOptions, function(error, flickr) {
-  // we can now use "flickr" as our API object
-});
-```
-- search like in MongoDB:
-```
-flickr.photos.search({key:val}, cb_function(){})
-```
-- upload photo - JSON array of objects 
-```
-photos: [{
-  title: "test",
-  tags: ["happy","fox"],
-  photo: __dirname + "/test.jpg"
-}]
-```
-- download data:
-```
-flickrapi.downsync();
-```
-
 [1]:https://www.flickr.com/services/api/
 [2]:https://www.flickr.com/services/api/keys/
-> Written with [StackEdit](https://stackedit.io/).
