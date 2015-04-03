@@ -1,4 +1,5 @@
-##Flickr API
+Flickr API!
+===================
 
 Overview
 -------------
@@ -44,3 +45,5 @@ You may use Flickr to authenticate users in your app based on their Flickr crede
 5. return back to app, passing oauth_verifier
 6. grants acces
 
+[1]:https://www.flickr.com/services/api/
+[2]:https://www.flickr.com/services/api/keys/
