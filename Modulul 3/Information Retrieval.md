@@ -78,8 +78,8 @@ Documentation and help are available:
 * on the [developers mailing list]( https://groups.google.com/forum/#!forum/lire-dev)
 * on the [Google Code page of LIRE]( https://code.google.com/p/lire/)
 * in the LIRE book on [Amazon]( http://www.amazon.com/Information-Retrieval-Synthesis-Lectures-Concepts/dp/1608459187/ref=sr_1_1?ie=UTF8&qid=1366355737&sr=8-1&keywords=lux+lire) or [Morgan & Claypool]( http://www.morganclaypool.com/doi/abs/10.2200/S00468ED1V01Y201301ICR025)
-* [http://www.semanticmetadata.net/lire/](http://www.semanticmetadata.net/lire/)
-* [http://www.lire-project.net/](http://www.lire-project.net/)
+* [www.semanticmetadata.net/lire/](http://www.semanticmetadata.net/lire/)
+* [www.lire-project.net/](http://www.lire-project.net/)
 
 
 
