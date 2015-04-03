@@ -1,18 +1,16 @@
-Information Retrieval
+# Information Retrieval
 
 Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers).
 Information retrieval is a problem-oriented discipline, concerned with the problem of the effective and efficient transfer of desired information between human generator and human user In other words:
-  • The indexing and retrieval of textual documents. 
-  • Concerned firstly with retrieving relevant documents to a query. 
-  • Query Matching
-  • Ranking & Sorting
+  * The indexing and retrieval of textual documents. 
+  * Concerned firstly with retrieving relevant documents to a query. 
+  * Query Matching
+  * Ranking & Sorting
 
 References:
-  • Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008
-    http://nlp.stanford.edu/IR-book/pdf/01bool.pdf
-  • Robert R. Korfhage, Information Storage and Retrieval
-  • Susan Feldman, Natural Language Processing in Information Retrieval:
-    http://www.scism.lsbu.ac.uk/inmandw/ir/jaberwocky.htm
+  * [Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008](http://nlp.stanford.edu/IR-book/pdf/01bool.pdf)
+  * Robert R. Korfhage, Information Storage and Retrieval
+  * [Susan Feldman, Natural Language Processing in Information Retrieval](http://www.scism.lsbu.ac.uk/inmandw/ir/jaberwocky.htm)
 
 
 Directory API
