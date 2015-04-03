@@ -1,6 +1,5 @@
 ##Flickr API
 
-----------
 Overview
 -------------
 
