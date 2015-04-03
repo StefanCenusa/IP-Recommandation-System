@@ -1,8 +1,13 @@
 Flickr API!
 ===================
 
+The Flickr API is available for non-commercial use by outside developers. Commercial use is possible by prior arrangement.
+
+----------
 Overview
 -------------
+
+In order to use any API, the first step is to obtain an API key from the organization that is providing the service. This key is used by the system to recognize you as a trusted developer and thus allow your app to comunicate with the service. It is worth mentioning that not all functions require a key, these functions are generaly public services that don't involve any sensitive data.
 
 The Flickr API consists of a set of callable methods, and some API endpoints.
 
@@ -16,14 +21,23 @@ The optional parameter format is used to specify a response format.
 
 The arguments, responses and error codes for each method are listed on the method's spec page. Methods are lists on the API index page.
 
-Note: The Flickr API exposes identifiers for users, photos, photosets and other uniquely identifiable objects. These IDs should always be treated as opaque strings, rather than integers of any specific type. The format of the IDs can change over time, so relying on the current format may cause you problems in the future.
+>Limits imposed by the Flickr API:
 
+> - 3600 Queries / hour;
+>- Data can be cached for up to one day.
+
+Before using any API it is important to get accustomed to the Community Guidelines and the API Terms of Use, since not respecting them may get your key void, thus removing your access to the API.
+
+[Flickr Community Guidelines](https://www.flickr.com/help/guidelines/)
+[Flickr API Terms of Use](https://www.flickr.com/services/api/tos/)
+ 
 > **Note:**
 
 > The Flickr API exposes identifiers for users, photos, photosets and other uniquely identifiable objects. These IDs should always be treated as opaque strings, rather than integers of any specific type. The format of the IDs can change over time, so relying on the current format may cause you problems in the future.
 
 Login Flow
 -------------
+You may use Flickr to authenticate users in your app based on their Flickr credentials. In order to do so, Flickr proposes the following login flow.
 
 ![](https://s.yimg.com/pw/images/en-us/flickr_oauth_flow.jpg)
 
@@ -34,5 +48,3 @@ Login Flow
 5. return back to app, passing oauth_verifier
 6. grants acces
 
-[1]:https://www.flickr.com/services/api/
-[2]:https://www.flickr.com/services/api/keys/
