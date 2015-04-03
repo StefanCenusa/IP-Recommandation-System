@@ -1,7 +1,4 @@
-Flickr API!
-===================
-
-The Flickr API is available for non-commercial use by outside developers. Commercial use is possible by prior arrangement.
+Flickr API
 
 ----------
 Overview
