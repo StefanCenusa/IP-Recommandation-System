@@ -66,11 +66,14 @@ More information here:
 # LIRE: Lucene Image Retrieval
 
 LIRE is a Java library that provides a simple way to retrieve images and photos based on their color and texture characteristics. 
+
 LIRE creates a [Lucene]( http://lucene.apache.org/) index of image features for content based image retrieval ([CBIR]( http://en.wikipedia.org/wiki/CBIR)). Several different low level features are available, such as MPEG-7 ScalableColor, ColorLayout, and EdgeHistogram, Auto Color Correlogram, PHOG, CEDD, JCD, FCTH, and many more. 
+
 Furthermore, simple and extended methods for searching the index and result browsing are provided by LIRE. LIRE scales well up to millions of images with hash based approximate indexing. 
+
 The LIRE library and the demo application - as well as all the test and development source - are available under the GNU GPL license.
 
-Documentation and help are available
+Documentation and help are available:
 * on the [developers wiki]( http://www.semanticmetadata.net/wiki/)
 * on the [developers mailing list]( https://groups.google.com/forum/#!forum/lire-dev)
 * on the [Google Code page of LIRE]( https://code.google.com/p/lire/)
