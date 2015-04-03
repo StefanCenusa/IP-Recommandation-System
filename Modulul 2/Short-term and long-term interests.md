@@ -5,11 +5,11 @@ The profile of a person – Short-Term interests and Long-Term interests
 
 	Since the fast update rate of micro-blog and user's interests are changing dynamicaly, we divide users' interests into long-term interests and short-term interests. To improve the precision of recommendation, we consider three factors to build users' interests :
 
-+ Tags : People can use tags to represent their interests. We can also find users that has common interests through tags.
+-Tags : People can use tags to represent their interests. We can also find users that has common interests through tags.
 
-+Contents : When users send a status, they may want to transmit information or express their status, but these all contains their interests. We are gonna use the contents of the latest one month to build one user's short-term interests.
+-Contents : When users send a status, they may want to transmit information or express their status, but these all contains their interests. We are gonna use the contents of the latest one month to build one user's short-term interests.
 
-+Followees : In social networks, most people follow someone to get useful information from them, we are interested in what followees post, so wheb constructing interests, we consider using their interests in oreder to extend ours. Prior work had proved the effectiveness of combining text content from a group to capture the interest of a single user.
+-Followees : In social networks, most people follow someone to get useful information from them, we are interested in what followees post, so wheb constructing interests, we consider using their interests in oreder to extend ours. Prior work had proved the effectiveness of combining text content from a group to capture the interest of a single user.
 	A person's profile can be build more precise if we divide interests into long-term and short-term interests. 
 
 1. Short-term interests
@@ -17,7 +17,6 @@ The profile of a person – Short-Term interests and Long-Term interests
 	Users' short-term interests show change of his recent statuses. In one research, following the approach in Pazzani et al. people manage to build a bag-of-words profile for each user to represent his short-term interests. Unlike in Pazzani et al., where the profile was consisted of words from web pages that the user has rated explicitly, in this particular research the profile is conturated form the users' recent one month micro-blog contents with TD-Inverse document frequency model.
 
 	TD-IDF model consists in measuring how much information the word provides, that is, whether the term is common or rare across all documents. It is the logarithmically scaled fraction of the documents that contain the word, obtained by dividing the total number of documents by the number of documents containing the term, and then taking the logarithm of that quotient.
-
 
 
 
@@ -34,9 +33,9 @@ The profile of a person – Short-Term interests and Long-Term interests
 	When building long-term interests there are considered three factors: micro-blog’s contents, tags and followees’ interests. For most people read information rather than write, using contents and tags merely to build interests maybe not precise. 
 	For constructing short-term interest there are analyzed the recent one month contens. So to build long-term interest, those contents aren’t analyzed any more. The short-term interests collected every month are reused, and a time factor is added having month as a unit.
 	The RDF-model weights user interest using the number of the entities, their frequency and potentially some additional factors. These factors might depend on:
-- whether or not the interest was implicitly mined or explicitly expresed by the user;
-- a time-based function which computes the decay of the interests over time;
-- the trustworthiness of the social platform.
+2. 1 whether or not the interest was implicitly mined or explicitly expresed by the user;
+2. 2 a time-based function which computes the decay of the interests over time;
+2  3 the trustworthiness of the social platform.
 	Each interest is connected to the agent who expressed the interest, the time when it was initially expressed/created or modified, its dereferencable description, the website or user accout it was extracted from and the social web action which caused the interest to be expressed.
 	Interests will vary in importance or relevence for any user over time, and preferences that have been expressed by a user some time in the past will probably be less relevant than interests which have been expressed very recently. In general, the relevance of interests for a user decay over time. 
 	An exponential time decay  function can be used to compute the relevance of interests over time. This function can be used to evaluate the relevance of each interest according to its position on the user timeline, giving higher weights for interests that have occurred recently and lower weights for older interests. The recent entities of interest extracted from the Social Web activity of a user reflect his or her current interests more than the older ones.
