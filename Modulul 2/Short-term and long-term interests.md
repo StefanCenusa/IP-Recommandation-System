@@ -1,6 +1,8 @@
 
 ###**The profile of a person – Short-Term interests and Long-Term interests**
 
+
+-----------------------------------
 Since the fast update rate of micro-blog and user's interests are changing dynamicaly, we divide users' interests into long-term interests and short-term interests. To improve the precision of recommendation, we consider three factors to build users' interests :
 
 - **Tags** : People can use tags to represent their interests. We can also find users that has common interests through tags.
