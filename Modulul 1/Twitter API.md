@@ -23,11 +23,11 @@ The Streaming APIs give developers low latency access to Twitter’s global stre
 
 
 
-Connecting to the streaming API requires keeping a persistent HTTP connection open. In many cases this involves thinking about your application differently than if you were interacting with the REST API.  An app which connects to the Streaming APIs will not be able to establish a connection in response to a user request, as shown in the above example. Instead, the code for maintaining the Streaming connection is typically run in a process separate from the process which handles HTTP requests. 
+Connecting to the streaming API requires keeping a persistent HTTP connection open. An app which connects to the Streaming APIs will not be able to establish a connection in response to a user request. Instead, the code for maintaining the Streaming connection is typically run in a process separate from the process which handles HTTP requests. 
 
 ![enter image description here](https://g.twimg.com/dev/sites/default/files/images_documentation/streaming-intro-2_1.png)
 
-The streaming process gets the input Tweets and performs any parsing, filtering, and/or aggregation needed before storing the result to a data store. The HTTP handling process queries the data store for results in response to user requests. While this model is more complex than the first example, the benefits from having a realtime stream of Tweet data make the integration worthwhile for many types of apps.
+The streaming process gets the input Tweets and performs any parsing, filtering, and/or aggregation needed before storing the result to a data store. The HTTP handling process queries the data store for results in response to user requests. While this model is more complex, the benefits from having a realtime stream of Tweet data make the integration worthwhile for many types of apps.
 
 https://dev.twitter.com/streaming/overview
 
