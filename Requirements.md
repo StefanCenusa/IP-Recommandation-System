@@ -1,7 +1,6 @@
 
 ##Recommendation System
 
-----------
 A system that can make recommendations based on user interest. 
 
 ----------
