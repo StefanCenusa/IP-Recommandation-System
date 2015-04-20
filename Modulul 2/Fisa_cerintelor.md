@@ -1,5 +1,6 @@
 Fisa Cerintelor
-- Recommandation System , M2 –
+
+Recommandation System , M2 
 
 Cuprins
 
@@ -22,10 +23,9 @@ Cuprins
   5.4. Stabilirea intereselor de lunga durata de catre aplicatie
 
 Profesor coordonator :
-- Iftene Adrian , PhD , decan al Facultatii de Informatica ,  Iasi
+Iftene Adrian , PhD , decan al Facultatii de Informatica ,  Iasi
 
-
-1. Descriere : 
+1.Descriere 
 
 Recommandation System este o aplicatie ce recomanda utilizatorului anumite articole, 
 informatii si tutoriale pe baza intereseleor acestuia . 
@@ -35,24 +35,24 @@ ale prietenilor acestuia sau persoanele cu care impartaseste aceleasi interese .
 Modulul nostru se va ocupa cu analiza datelor unui uitilizator
 al unei retea de socializare si aflarea intereselor pe termen scurt si intereselor pe termen lung ale acestuia.
 
-2. Domenii :
+2.Domenii 
 	
 Pe baza datelor oferite de catre profilul utilizatorului putem afla preferintele acestuia pe o perioada mai scurta, 
 dar si pe o perioada mai lunga. Utilizand aceste informatii putem recomanda locuri pe care le-ar putea vizita,
 sau aplicatii pe care le-ar putea folosi din domeniul preferat de el.
 
-3. Actionari/Interese :   
+3.Actionari/Interese    
 
 Modulul nostru va pune la indemana celorlalti membri ai proiectului informatii despre 
 interesele pe termen scurt si lung ale utilizatorul aplicatiei.
 
-4. Actori si Obiective :
+4.Actori si Obiective 
 
 Recommandation System va satisface nevoile clientului, iar Modulul 2 va avea sarcina de preluare a 
 preferintele utilizatorului din retelele de socializare. Utilizatorul uman va fi satisfacut prin 
 recomandarea unor informatii concrete si de mare precizie conform cerintelor acestuia. 
 
-5. Scenarii de Utilizare : 
+5.Scenarii de Utilizare  
 
 5.1. Identificarea utilizatorului
 
