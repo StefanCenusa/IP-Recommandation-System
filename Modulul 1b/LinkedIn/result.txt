@@ -1,0 +1,21 @@
+Fetching request token from LinkedIn...
+Request token com.google.code.linkedinapi.client.oauth.LinkedInRequestToken@b3aa8b7e
+Auth token78--6aa3faff-9ec0-4d0f-b90d-a8db9112fd12
+Auth token secretfefa0faf-3e41-4c34-832f-1a97c7a84724
+Copy below link in web browser to authorize. Copy the PIN obtained
+https://www.linkedin.com/uas/oauth/authorize?oauth_token=78--6aa3faff-9ec0-4d0f-b90d-a8db9112fd12
+Enter the PIN code:
+89774
+Fetching access token from LinkedIn...
+Access token : 327a24cc-f6fb-43ef-84d4-0b7db143fa5b
+Token secret : 21343317-00af-406b-8d0b-cd63cffedbd5
+================================
+ID: D-GhcwdAvR
+Name:Victor Dima
+Headline:Student at Universitatea „Alexandru Ioan Cuza” din Iași
+Summary:null
+Industry:null
+Picture:null
+Curent Status:null
+Date of birth:null
+Merge!
