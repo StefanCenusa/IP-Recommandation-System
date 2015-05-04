@@ -40,12 +40,16 @@ import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
+import java.io.PrintWriter;
+import java.io.PrintStream;
+import java.lang.System;
 import java.math.BigInteger;
 import java.security.SecureRandom;
 import java.util.Scanner;
@@ -66,6 +70,7 @@ public class Signin {
   /*
    * Default HTTP transport to use to make HTTP requests.
    */
+
   private static final HttpTransport TRANSPORT = new NetHttpTransport();
 
   /*
@@ -304,6 +309,15 @@ public class Signin {
    * Get list of people user has shared with this app.
    */
   public static class PeopleServlet extends HttpServlet {
+      /* FILE OUTPUT*/
+      PrintStream out = null;
+      try {
+          out = new PrintStream(new FileOutputStream("profile.json"));
+      } catch (FileNotFoundException e) {
+          e.printStackTrace();
+      }
+      System.setOut(out);
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
         throws ServletException, IOException {
@@ -330,8 +344,11 @@ public class Signin {
             .build();
         // Get a list of people that this user has shared with this app.
         PeopleFeed people = service.people().list("me", "visible").execute();
+
         response.setStatus(HttpServletResponse.SC_OK);
         response.getWriter().print(GSON.toJson(people));
+          System.out.println(GSON.toJson(people));
+
       } catch (IOException e) {
         response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
         response.getWriter().print(GSON.toJson("Failed to read data from Google. " +
