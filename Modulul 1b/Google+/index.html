@@ -209,7 +209,7 @@ var helper = (function() {
         person = people.items[personIndex];
         $('#visiblePeople').append('<img src="' + person.image.url + '">');
       }
-    },
+    }
   };
 })();
 
@@ -233,7 +233,7 @@ $(document).ready(function() {
  * Called after the Google client library has loaded.
  */
 function startApp() {
-  gapi.load('auth2', function(){
+    gapi.load('auth2', function(){
 
     // Retrieve the singleton for the GoogleAuth library and setup the client.
     gapi.auth2.init({

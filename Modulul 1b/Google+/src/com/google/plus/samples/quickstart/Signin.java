@@ -28,7 +28,10 @@ import com.google.api.client.http.HttpTransport;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.jackson.JacksonFactory;
 import com.google.api.services.plus.Plus;
+import com.google.api.services.plus.model.Person;
 import com.google.api.services.plus.model.PeopleFeed;
+import com.google.api.services.plus.model.Activity;
+import com.google.api.services.plus.model.ActivityFeed;
 import com.google.gson.Gson;
 
 import org.apache.log4j.BasicConfigurator;
@@ -58,6 +61,8 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import java.util.List;
 
 /**
  * Simple server to demonstrate how to use Google+ Sign-In and make a request
@@ -309,14 +314,6 @@ public class Signin {
    * Get list of people user has shared with this app.
    */
   public static class PeopleServlet extends HttpServlet {
-      /* FILE OUTPUT*/
-      PrintStream out = null;
-      try {
-          out = new PrintStream(new FileOutputStream("profile.json"));
-      } catch (FileNotFoundException e) {
-          e.printStackTrace();
-      }
-      System.setOut(out);
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
@@ -338,16 +335,78 @@ public class Signin {
             .setClientSecrets(CLIENT_ID, CLIENT_SECRET).build()
             .setFromTokenResponse(JSON_FACTORY.fromString(
                 tokenData, GoogleTokenResponse.class));
+
         // Create a new authorized API client.
         Plus service = new Plus.Builder(TRANSPORT, JSON_FACTORY, credential)
             .setApplicationName(APPLICATION_NAME)
             .build();
+
+        // Get user information
+        Person mePerson = service.people().get("me").execute();
+          // Set output to file
+          /*PrintStream out = null;
+          try {
+              out = new PrintStream(new FileOutputStream("../userInfo/user-profile.json"));
+          } catch (FileNotFoundException e) {
+              e.printStackTrace();
+          }
+          System.setOut(out);
+          System.out.print(GSON.toJson(mePerson));*/
+
+        // Get Activity of user
+        // https://developers.google.com/+/api/latest/activities/list
+          PrintStream out = null;
+          try {
+              out = new PrintStream(new FileOutputStream("user-activity.json"));
+          } catch (FileNotFoundException e) {
+              e.printStackTrace();
+          }
+          System.setOut(out);
+
+          Plus.Activities.List listActivities = service.activities().list("me", "public");
+          listActivities.setMaxResults(5L);
+
+            // Execute the request for the first page
+          ActivityFeed activityFeed = listActivities.execute();
+
+            // Unwrap the request and extract the pieces we want
+          List<Activity> activities = activityFeed.getItems();
+
+            // Loop through until we arrive at an empty page
+          while (activities != null) {
+              for (Activity activity : activities) {
+                  System.out.println("ID " + activity.getId() + " Content: " +
+                          activity.getObject().getContent());
+              }
+
+              // We will know we are on the last page when the next page token is null.
+              // If this is the case, break.
+              if (activityFeed.getNextPageToken() == null) {
+                  break;
+              }
+
+              // Prepare to request the next page of activities
+              listActivities.setPageToken(activityFeed.getNextPageToken());
+
+              // Execute and process the next page request
+              activityFeed = listActivities.execute();
+              activities = activityFeed.getItems();
+          }
+
         // Get a list of people that this user has shared with this app.
         PeopleFeed people = service.people().list("me", "visible").execute();
+          // send friends list to client
+          response.setStatus(HttpServletResponse.SC_OK);
+          response.getWriter().print(GSON.toJson(people));
 
-        response.setStatus(HttpServletResponse.SC_OK);
-        response.getWriter().print(GSON.toJson(people));
-          System.out.println(GSON.toJson(people));
+          // Set output to file
+          /*try {
+              out = new PrintStream(new FileOutputStream("../userInfo/user-friends.json"));
+          } catch (FileNotFoundException e) {
+              e.printStackTrace();
+          }
+          System.setOut(out);
+          System.out.print(GSON.toJson(people));*/
 
       } catch (IOException e) {
         response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
