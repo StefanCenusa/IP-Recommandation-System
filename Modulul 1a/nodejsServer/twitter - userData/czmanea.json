@@ -1,0 +1,574 @@
+{
+  "profile": {
+    "id": "455194493",
+    "username": "czmanea",
+    "displayName": "Cezar Manea",
+    "photos": [
+      {
+        "value": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":455194493,\"id_str\":\"455194493\",\"name\":\"Cezar Manea\",\"screen_name\":\"czmanea\",\"location\":\"Iasi, Romania\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":17,\"friends_count\":154,\"listed_count\":0,\"created_at\":\"Wed Jan 04 20:57:07 +0000 2012\",\"favourites_count\":0,\"utc_offset\":10800,\"time_zone\":\"Bucharest\",\"geo_enabled\":false,\"verified\":false,\"statuses_count\":5,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Mar 07 17:46:43 +0000 2015\",\"id\":574264931392090112,\"id_str\":\"574264931392090112\",\"text\":\"FREE Sublime Text License ($70) http:\\/\\/t.co\\/dl78LlZQRC via @webapplog\",\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/android\\\" rel=\\\"nofollow\\\"\\u003eTwitter for Android\\u003c\\/a\\u003e\",\"truncated\":false,\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweet_count\":0,\"favorite_count\":0,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"webapplog\",\"name\":\"webapplog.com\",\"id\":2446564770,\"id_str\":\"2446564770\",\"indices\":[59,69]}],\"urls\":[{\"url\":\"http:\\/\\/t.co\\/dl78LlZQRC\",\"expanded_url\":\"http:\\/\\/webapplog.com\\/giveaways\\/sublime\\/?lucky=27375\",\"display_url\":\"webapplog.com\\/giveaways\\/subl\\u2026\",\"indices\":[32,54]}]},\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"000000\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/590395072274952192\\/oX59xI8e_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/590395072274952192\\/oX59xI8e_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/455194493\\/1429596087\",\"profile_link_color\":\"3B94D9\",\"profile_sidebar_border_color\":\"000000\",\"profile_sidebar_fill_color\":\"000000\",\"profile_text_color\":\"000000\",\"profile_use_background_image\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 455194493,
+      "id_str": "455194493",
+      "name": "Cezar Manea",
+      "screen_name": "czmanea",
+      "location": "Iasi, Romania",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 154,
+      "listed_count": 0,
+      "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Mar 07 17:46:43 +0000 2015",
+        "id": 574264931392090100,
+        "id_str": "574264931392090112",
+        "text": "FREE Sublime Text License ($70) http://t.co/dl78LlZQRC via @webapplog",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "webapplog",
+              "name": "webapplog.com",
+              "id": 2446564770,
+              "id_str": "2446564770",
+              "indices": [
+                59,
+                69
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/dl78LlZQRC",
+              "expanded_url": "http://webapplog.com/giveaways/sublime/?lucky=27375",
+              "display_url": "webapplog.com/giveaways/subl…",
+              "indices": [
+                32,
+                54
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [
+    {
+      "created_at": "Sat Mar 07 17:46:43 +0000 2015",
+      "id": 574264931392090100,
+      "id_str": "574264931392090112",
+      "text": "FREE Sublime Text License ($70) http://t.co/dl78LlZQRC via @webapplog",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 455194493,
+        "id_str": "455194493",
+        "name": "Cezar Manea",
+        "screen_name": "czmanea",
+        "location": "Iasi, Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webapplog",
+            "name": "webapplog.com",
+            "id": 2446564770,
+            "id_str": "2446564770",
+            "indices": [
+              59,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/dl78LlZQRC",
+            "expanded_url": "http://webapplog.com/giveaways/sublime/?lucky=27375",
+            "display_url": "webapplog.com/giveaways/subl…",
+            "indices": [
+              32,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Oct 23 19:06:52 +0000 2014",
+      "id": 525362738168479740,
+      "id_str": "525362738168479744",
+      "text": "Get it free: Learn To Build Your Own iPhone Game For FREE! https://t.co/YHIdwh0yZH via @tuaw",
+      "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 455194493,
+        "id_str": "455194493",
+        "name": "Cezar Manea",
+        "screen_name": "czmanea",
+        "location": "Iasi, Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TUAW",
+            "name": "TUAW",
+            "id": 678953,
+            "id_str": "678953",
+            "indices": [
+              87,
+              92
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YHIdwh0yZH",
+            "expanded_url": "https://deals.tuaw.com/sales/learn-to-build-your-own-iphone-game?rid=930377",
+            "display_url": "deals.tuaw.com/sales/learn-to…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 31 09:04:37 +0000 2012",
+      "id": 230227456458637300,
+      "id_str": "230227456458637313",
+      "text": "@lupulalbastru1 \"Commentators on Antena3..have lambasted an Olympic medal winner..\" chiar si in the economist a ajuns: http://t.co/FnTWlpmZ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 230217610011222000,
+      "in_reply_to_status_id_str": "230217610011222017",
+      "in_reply_to_user_id": 521638801,
+      "in_reply_to_user_id_str": "521638801",
+      "in_reply_to_screen_name": "lupulalbastru1",
+      "user": {
+        "id": 455194493,
+        "id_str": "455194493",
+        "name": "Cezar Manea",
+        "screen_name": "czmanea",
+        "location": "Iasi, Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lupulalbastru1",
+            "name": "Mircea Badea",
+            "id": 521638801,
+            "id_str": "521638801",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/FnTWlpmZ",
+            "expanded_url": "http://www.economist.com/blogs/easternapproaches/2012/07/romanian-politics-3",
+            "display_url": "economist.com/blogs/easterna…",
+            "indices": [
+              119,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue May 22 10:12:25 +0000 2012",
+      "id": 204877367049601020,
+      "id_str": "204877367049601024",
+      "text": "I love Dropbox because It simplifies life. http://t.co/FYwiv4Rg",
+      "source": "<a href=\"http://www.dropbox.com\" rel=\"nofollow\">Dropbox </a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 455194493,
+        "id_str": "455194493",
+        "name": "Cezar Manea",
+        "screen_name": "czmanea",
+        "location": "Iasi, Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/FYwiv4Rg",
+            "expanded_url": "http://db.tt/VQBEtY8n",
+            "display_url": "db.tt/VQBEtY8n",
+            "indices": [
+              43,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 19 16:54:10 +0000 2012",
+      "id": 181785646237614080,
+      "id_str": "181785646237614081",
+      "text": "e-politic http://t.co/iG74UoTT",
+      "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 455194493,
+        "id_str": "455194493",
+        "name": "Cezar Manea",
+        "screen_name": "czmanea",
+        "location": "Iasi, Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 20:57:07 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590395072274952192/oX59xI8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455194493/1429596087",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/iG74UoTT",
+            "expanded_url": "http://www.restartedu.ro/project/e-politic",
+            "display_url": "restartedu.ro/project/e-poli…",
+            "indices": [
+              10,
+              30
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    }
+  ]
+}

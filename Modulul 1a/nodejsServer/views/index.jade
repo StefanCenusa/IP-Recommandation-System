@@ -1,0 +1,15 @@
+extends layout
+
+block content
+	div.container
+		div.row
+			.col-sm-12.col-md-8.col-md-offset-2
+				.panel.panel-default
+					.panel-heading Choose sing-in method
+					.panel-body
+						div.col-sm-6.col-md-6
+							a(href="/auth/twitter")
+								img.img-responsive(src= "./resources/Twitter_bird_logo.png")
+						div.col-sm-6.col-md-6.pull-right
+							a(href="/auth/flickr")
+								img.img-responsive(src= "./resources/Flickr-icon.png")
