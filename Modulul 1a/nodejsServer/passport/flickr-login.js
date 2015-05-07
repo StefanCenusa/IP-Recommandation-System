@@ -48,7 +48,7 @@ module.exports = function (passport) {
                         callback(null, userJSON.photos);
                 })
             }], function (err, res) { 
-                var fileName = dir + userJSON.profile.displayName + '.json';
+                var fileName = dir + userJSON.profile.fullName + '.json';
                 fs.writeFile(fileName, JSON.stringify(userJSON, null, 2), function (err) {
                     if (err) throw err;
                     console.log('It\'s saved!');

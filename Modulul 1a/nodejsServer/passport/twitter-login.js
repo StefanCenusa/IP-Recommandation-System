@@ -40,7 +40,7 @@ module.exports = function (passport) {
                     callback(null, 'favorites list added');
 					});
             }], function (err, res) {
-                var fileName = dir + userJSON.profile.username + '.json';
+                var fileName = dir + userJSON.profile.displayName + '.json';
                 fs.writeFile(fileName, JSON.stringify(userJSON, null, 2), function (err) {
                     if (err) throw err;
                     console.log('It\'s saved!');
