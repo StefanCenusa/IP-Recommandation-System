@@ -1,0 +1,3075 @@
+{
+  "profile": {
+    "id": "318976549",
+    "username": "StefanCenusa",
+    "displayName": "Stefan Cenusa",
+    "photos": [
+      {
+        "value": "https://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":318976549,\"id_str\":\"318976549\",\"name\":\"Stefan Cenusa\",\"screen_name\":\"StefanCenusa\",\"location\":\"Romania\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":22,\"friends_count\":62,\"listed_count\":0,\"created_at\":\"Fri Jun 17 11:05:13 +0000 2011\",\"favourites_count\":0,\"utc_offset\":10800,\"time_zone\":\"Bucharest\",\"geo_enabled\":false,\"verified\":false,\"statuses_count\":2,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Apr 25 20:00:26 +0000 2015\",\"id\":592055587095064579,\"id_str\":\"592055587095064579\",\"text\":\"RT @NBA: LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https:\\/\\/t.co\\/P7gGc9gS63\",\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/android\\\" rel=\\\"nofollow\\\"\\u003eTwitter for Android\\u003c\\/a\\u003e\",\"truncated\":false,\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Apr 25 17:41:54 +0000 2015\",\"id\":592020724572880896,\"id_str\":\"592020724572880896\",\"text\":\"LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https:\\/\\/t.co\\/P7gGc9gS63\",\"source\":\"\\u003ca href=\\\"http:\\/\\/www.hootsuite.com\\\" rel=\\\"nofollow\\\"\\u003eHootsuite\\u003c\\/a\\u003e\",\"truncated\":false,\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweet_count\":13172,\"favorite_count\":8753,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"MikeMancias1\",\"name\":\"Mike Mancias\",\"id\":397216227,\"id_str\":\"397216227\",\"indices\":[50,63]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/P7gGc9gS63\",\"expanded_url\":\"https:\\/\\/vine.co\\/v\\/eWhhnDI21zZ\",\"display_url\":\"vine.co\\/v\\/eWhhnDI21zZ\",\"indices\":[65,88]}]},\"favorited\":false,\"retweeted\":true,\"possibly_sensitive\":false,\"lang\":\"en\"},\"retweet_count\":13172,\"favorite_count\":0,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"NBA\",\"name\":\"NBA\",\"id\":19923144,\"id_str\":\"19923144\",\"indices\":[3,7]},{\"screen_name\":\"MikeMancias1\",\"name\":\"Mike Mancias\",\"id\":397216227,\"id_str\":\"397216227\",\"indices\":[59,72]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/P7gGc9gS63\",\"expanded_url\":\"https:\\/\\/vine.co\\/v\\/eWhhnDI21zZ\",\"display_url\":\"vine.co\\/v\\/eWhhnDI21zZ\",\"indices\":[74,97]}]},\"favorited\":false,\"retweeted\":true,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"000000\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1399955606\\/tactx-gaming-keyboard-alienware_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1399955606\\/tactx-gaming-keyboard-alienware_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/318976549\\/1429661464\",\"profile_link_color\":\"4A913C\",\"profile_sidebar_border_color\":\"000000\",\"profile_sidebar_fill_color\":\"000000\",\"profile_text_color\":\"000000\",\"profile_use_background_image\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 318976549,
+      "id_str": "318976549",
+      "name": "Stefan Cenusa",
+      "screen_name": "StefanCenusa",
+      "location": "Romania",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 22,
+      "friends_count": 62,
+      "listed_count": 0,
+      "created_at": "Fri Jun 17 11:05:13 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Apr 25 20:00:26 +0000 2015",
+        "id": 592055587095064600,
+        "id_str": "592055587095064579",
+        "text": "RT @NBA: LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https://t.co/P7gGc9gS63",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Apr 25 17:41:54 +0000 2015",
+          "id": 592020724572880900,
+          "id_str": "592020724572880896",
+          "text": "LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https://t.co/P7gGc9gS63",
+          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 13172,
+          "favorite_count": 8753,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "MikeMancias1",
+                "name": "Mike Mancias",
+                "id": 397216227,
+                "id_str": "397216227",
+                "indices": [
+                  50,
+                  63
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/P7gGc9gS63",
+                "expanded_url": "https://vine.co/v/eWhhnDI21zZ",
+                "display_url": "vine.co/v/eWhhnDI21zZ",
+                "indices": [
+                  65,
+                  88
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": true,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 13172,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "NBA",
+              "name": "NBA",
+              "id": 19923144,
+              "id_str": "19923144",
+              "indices": [
+                3,
+                7
+              ]
+            },
+            {
+              "screen_name": "MikeMancias1",
+              "name": "Mike Mancias",
+              "id": 397216227,
+              "id_str": "397216227",
+              "indices": [
+                59,
+                72
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/P7gGc9gS63",
+              "expanded_url": "https://vine.co/v/eWhhnDI21zZ",
+              "display_url": "vine.co/v/eWhhnDI21zZ",
+              "indices": [
+                74,
+                97
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/318976549/1429661464",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [
+    {
+      "created_at": "Sat Apr 25 20:00:26 +0000 2015",
+      "id": 592055587095064600,
+      "id_str": "592055587095064579",
+      "text": "RT @NBA: LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https://t.co/P7gGc9gS63",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 318976549,
+        "id_str": "318976549",
+        "name": "Stefan Cenusa",
+        "screen_name": "StefanCenusa",
+        "location": "Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 62,
+        "listed_count": 0,
+        "created_at": "Fri Jun 17 11:05:13 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/318976549/1429661464",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Apr 25 17:41:54 +0000 2015",
+        "id": 592020724572880900,
+        "id_str": "592020724572880896",
+        "text": "LeBron from waaaaaaaay downtown at practice! (via @mikemancias1) https://t.co/P7gGc9gS63",
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19923144,
+          "id_str": "19923144",
+          "name": "NBA",
+          "screen_name": "NBA",
+          "location": "",
+          "description": "News and notes directly from the National Basketball Association.",
+          "url": "http://t.co/sT8h1uaARA",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/sT8h1uaARA",
+                  "expanded_url": "http://NBA.com",
+                  "display_url": "NBA.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 14225246,
+          "friends_count": 1335,
+          "listed_count": 40799,
+          "created_at": "Mon Feb 02 19:04:42 +0000 2009",
+          "favourites_count": 72,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 104014,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "003969",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468178152976433152/6er8LSdY.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468178152976433152/6er8LSdY.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/532617697905766400/8GMNsRg3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/532617697905766400/8GMNsRg3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19923144/1431003546",
+          "profile_link_color": "FF0303",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 13172,
+        "favorite_count": 8753,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MikeMancias1",
+              "name": "Mike Mancias",
+              "id": 397216227,
+              "id_str": "397216227",
+              "indices": [
+                50,
+                63
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/P7gGc9gS63",
+              "expanded_url": "https://vine.co/v/eWhhnDI21zZ",
+              "display_url": "vine.co/v/eWhhnDI21zZ",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 13172,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NBA",
+            "name": "NBA",
+            "id": 19923144,
+            "id_str": "19923144",
+            "indices": [
+              3,
+              7
+            ]
+          },
+          {
+            "screen_name": "MikeMancias1",
+            "name": "Mike Mancias",
+            "id": 397216227,
+            "id_str": "397216227",
+            "indices": [
+              59,
+              72
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/P7gGc9gS63",
+            "expanded_url": "https://vine.co/v/eWhhnDI21zZ",
+            "display_url": "vine.co/v/eWhhnDI21zZ",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 21 06:12:45 +0000 2015",
+      "id": 590397744436617200,
+      "id_str": "590397744436617216",
+      "text": "Hello Twitter! #myfirstTweet",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 318976549,
+        "id_str": "318976549",
+        "name": "Stefan Cenusa",
+        "screen_name": "StefanCenusa",
+        "location": "Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 62,
+        "listed_count": 0,
+        "created_at": "Fri Jun 17 11:05:13 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399955606/tactx-gaming-keyboard-alienware_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/318976549/1429661464",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "myfirstTweet",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "no"
+    }
+  ],
+  "friendsList": {
+    "users": [
+      {
+        "id": 3239480289,
+        "id_str": "3239480289",
+        "name": "Dan Huțanu",
+        "screen_name": "dan_hutanu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 60,
+        "listed_count": 0,
+        "created_at": "Wed May 06 21:47:51 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 0,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 87818409,
+        "id_str": "87818409",
+        "name": "The Guardian ",
+        "screen_name": "guardian",
+        "location": "London",
+        "description": "Top stories, special features, live blogs and more",
+        "url": "http://t.co/rrGq778cPt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/rrGq778cPt",
+                "expanded_url": "http://theguardian.com",
+                "display_url": "theguardian.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3574503,
+        "friends_count": 1086,
+        "listed_count": 38716,
+        "created_at": "Thu Nov 05 23:49:19 +0000 2009",
+        "favourites_count": 130,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 144465,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 18:59:39 +0000 2015",
+          "id": 596388945757401100,
+          "id_str": "596388945757401088",
+          "text": "Ladbrokes rebuked by shareholders over payoff for departed boss http://t.co/uZqU4Lb4gL",
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/uZqU4Lb4gL",
+                "expanded_url": "http://trib.al/EeXlpbG",
+                "display_url": "trib.al/EeXlpbG",
+                "indices": [
+                  64,
+                  86
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704160749/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704160749/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564829693736546305/8o1OPz2e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564829693736546305/8o1OPz2e_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1427295976",
+        "profile_link_color": "005789",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CAE3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 3028481595,
+        "id_str": "3028481595",
+        "name": "Georgiana Leonte",
+        "screen_name": "lgeorgiana13",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 1,
+        "listed_count": 0,
+        "created_at": "Tue Feb 10 18:24:42 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 0,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 243381107,
+        "id_str": "243381107",
+        "name": "Google Play",
+        "screen_name": "GooglePlay",
+        "location": "",
+        "description": "We’re exploring the world’s greatest stories through movies, TV, music, games, apps, books and so much more. Up for new adventures and discoveries? Let’s play.",
+        "url": "http://t.co/655Gl498Xy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/655Gl498Xy",
+                "expanded_url": "http://play.google.com",
+                "display_url": "play.google.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4894269,
+        "friends_count": 877,
+        "listed_count": 9428,
+        "created_at": "Wed Jan 26 22:44:39 +0000 2011",
+        "favourites_count": 957,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11767,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 19:04:32 +0000 2015",
+          "id": 596390175632031700,
+          "id_str": "596390175632031746",
+          "text": "@ladyloveslyfe Hi Kisha. Try clearing cache/data. Settings &gt; Apps &gt; Google Play Store &gt; Clear cache/data &gt; restart device. Does that help?",
+          "source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+          "truncated": false,
+          "in_reply_to_status_id": 596389156021936100,
+          "in_reply_to_status_id_str": "596389156021936128",
+          "in_reply_to_user_id": 153968483,
+          "in_reply_to_user_id_str": "153968483",
+          "in_reply_to_screen_name": "ladyloveslyfe",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "ladyloveslyfe",
+                "name": "Kisha",
+                "id": 153968483,
+                "id_str": "153968483",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820413611/07d2c719da83b444279c0e93d2329e1a.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820413611/07d2c719da83b444279c0e93d2329e1a.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570048775591182336/dMDodbju_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570048775591182336/dMDodbju_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243381107/1424099240",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 29758446,
+        "id_str": "29758446",
+        "name": "Rockstar Games",
+        "screen_name": "RockstarGames",
+        "location": "NYC / Edinburgh / Bogota",
+        "description": "The official home of Rockstar Games on Twitter. Publishers of such popular games as Grand Theft Auto, Max Payne, Red Dead Redemption, L.A. Noire, Bully & more.",
+        "url": "http://t.co/202K27jaqH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/202K27jaqH",
+                "expanded_url": "http://www.rockstargames.com",
+                "display_url": "rockstargames.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4910198,
+        "friends_count": 439,
+        "listed_count": 13721,
+        "created_at": "Wed Apr 08 16:47:30 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11539,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 16:01:22 +0000 2015",
+          "id": 596344079560122400,
+          "id_str": "596344079560122368",
+          "text": "Fan questions answered: The Rockstar Editor, #GTAOnline updates, #GTAV PC mods &amp; more http://t.co/qFYIIcBylf http://t.co/IHGySeaV79",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 413,
+          "favorite_count": 781,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "GTAOnline",
+                "indices": [
+                  45,
+                  55
+                ]
+              },
+              {
+                "text": "GTAV",
+                "indices": [
+                  65,
+                  70
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/qFYIIcBylf",
+                "expanded_url": "http://rsg.ms/c77380e",
+                "display_url": "rsg.ms/c77380e",
+                "indices": [
+                  90,
+                  112
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 596344079073583100,
+                "id_str": "596344079073583105",
+                "indices": [
+                  113,
+                  135
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEajx8UWoAEjKob.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEajx8UWoAEjKob.jpg",
+                "url": "http://t.co/IHGySeaV79",
+                "display_url": "pic.twitter.com/IHGySeaV79",
+                "expanded_url": "http://twitter.com/RockstarGames/status/596344079560122368/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 191,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 640,
+                    "h": 360,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 337,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575384409546739712/KMFwcYg7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575384409546739712/KMFwcYg7.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478608982915821568/k9u7RJmk_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478608982915821568/k9u7RJmk_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29758446/1426017358",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 1468060333,
+        "id_str": "1468060333",
+        "name": "Ioana Stupariu",
+        "screen_name": "IoanaStupariu",
+        "location": "",
+        "description": "Managing Editor @lawyrit, in love with #debate #movies #art, supporting @CEELegalMatters and @BBUdebate",
+        "url": "http://t.co/emTtCFBxEj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/emTtCFBxEj",
+                "expanded_url": "http://www.lawyr.it",
+                "display_url": "lawyr.it",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 265,
+        "listed_count": 1,
+        "created_at": "Wed May 29 19:13:29 +0000 2013",
+        "favourites_count": 48,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 361,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 11:42:43 +0000 2015",
+          "id": 596278987908874200,
+          "id_str": "596278987908874240",
+          "text": "RT @EconEconomics: Our explainer on the history of Israeli politics:\nhttp://t.co/TZHUv5NMNE",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Thu May 07 11:42:03 +0000 2015",
+            "id": 596278820342202400,
+            "id_str": "596278820342202368",
+            "text": "Our explainer on the history of Israeli politics:\nhttp://t.co/TZHUv5NMNE",
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 3,
+            "favorite_count": 2,
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": [
+                {
+                  "url": "http://t.co/TZHUv5NMNE",
+                  "expanded_url": "http://econ.st/1JRUKXL",
+                  "display_url": "econ.st/1JRUKXL",
+                  "indices": [
+                    50,
+                    72
+                  ]
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 3,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "EconEconomics",
+                "name": "The Economist",
+                "id": 59486068,
+                "id_str": "59486068",
+                "indices": [
+                  3,
+                  17
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/TZHUv5NMNE",
+                "expanded_url": "http://econ.st/1JRUKXL",
+                "display_url": "econ.st/1JRUKXL",
+                "indices": [
+                  69,
+                  91
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592373463131693056/W3PZBnwf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/592373463131693056/W3PZBnwf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468060333/1426696398",
+        "profile_link_color": "247545",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 485863230,
+        "id_str": "485863230",
+        "name": "Robert Ciobotaru",
+        "screen_name": "CiobotaruRobert",
+        "location": "Iasi",
+        "description": "Vicepresedinte CJE Iasi | Membru in Biroul de presa CNE  http://t.co/TnF2A1GTJq",
+        "url": "http://t.co/IxUJRECuwR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IxUJRECuwR",
+                "expanded_url": "http://about.me/robert.ciobotaru",
+                "display_url": "about.me/robert.ciobota…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/TnF2A1GTJq",
+                "expanded_url": "http://www.robertciobotaru.wordpress.com",
+                "display_url": "robertciobotaru.wordpress.com",
+                "indices": [
+                  57,
+                  79
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 37,
+        "listed_count": 0,
+        "created_at": "Tue Feb 07 17:19:28 +0000 2012",
+        "favourites_count": 1,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 110,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue Apr 28 20:25:44 +0000 2015",
+          "id": 593149119801237500,
+          "id_str": "593149119801237504",
+          "text": "Libertate la @HANGARIADA http://t.co/JzlDfH9PZ5 #zbor #iasi #subcarpati #peblog #hangariada",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "zbor",
+                "indices": [
+                  48,
+                  53
+                ]
+              },
+              {
+                "text": "iasi",
+                "indices": [
+                  54,
+                  59
+                ]
+              },
+              {
+                "text": "subcarpati",
+                "indices": [
+                  60,
+                  71
+                ]
+              },
+              {
+                "text": "peblog",
+                "indices": [
+                  72,
+                  79
+                ]
+              },
+              {
+                "text": "hangariada",
+                "indices": [
+                  80,
+                  91
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "HANGARIADA",
+                "name": "Hangariada",
+                "id": 3037266875,
+                "id_str": "3037266875",
+                "indices": [
+                  13,
+                  24
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/JzlDfH9PZ5",
+                "expanded_url": "http://wp.me/pB2iN-cz",
+                "display_url": "wp.me/pB2iN-cz",
+                "indices": [
+                  25,
+                  47
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ro"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465086714835243008/6t_WN_kl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465086714835243008/6t_WN_kl_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 86395621,
+        "id_str": "86395621",
+        "name": "NVIDIA GeForce",
+        "screen_name": "NVIDIAGeForce",
+        "location": "Santa Clara, CA",
+        "description": "NVIDIA GeForce: graphics cards (GPUs), games and more",
+        "url": "http://t.co/SjzHg85NVX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/SjzHg85NVX",
+                "expanded_url": "http://www.nvidia.com",
+                "display_url": "nvidia.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 560003,
+        "friends_count": 218,
+        "listed_count": 1900,
+        "created_at": "Fri Oct 30 21:01:49 +0000 2009",
+        "favourites_count": 648,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3615,
+        "lang": "en",
+        "status": {
+          "created_at": "Wed May 06 15:00:30 +0000 2015",
+          "id": 595966374796746800,
+          "id_str": "595966374796746752",
+          "text": "The decks have been shuffled and cards have been drawn. NVIDIA #Hearthstone Pro-Am starts now. http://t.co/0QUUltxK6a http://t.co/0IY1uztuAy",
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 36,
+          "favorite_count": 56,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "Hearthstone",
+                "indices": [
+                  63,
+                  75
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/0QUUltxK6a",
+                "expanded_url": "http://nvda.ly/MvHTk",
+                "display_url": "nvda.ly/MvHTk",
+                "indices": [
+                  95,
+                  117
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 595966374637391900,
+                "id_str": "595966374637391872",
+                "indices": [
+                  118,
+                  140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEVMQppW0AAQfJW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEVMQppW0AAQfJW.jpg",
+                "url": "http://t.co/0IY1uztuAy",
+                "display_url": "pic.twitter.com/0IY1uztuAy",
+                "expanded_url": "http://twitter.com/NVIDIAGeForce/status/595966374796746752/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 880,
+                    "h": 440,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 300,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 170,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "030405",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461137521867374592/xEy4A4VU.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461137521867374592/xEy4A4VU.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461138477090762753/R-aF4W0r_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461138477090762753/R-aF4W0r_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86395621/1426608145",
+        "profile_link_color": "3B3B3B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 30261067,
+        "id_str": "30261067",
+        "name": "CNET",
+        "screen_name": "CNET",
+        "location": "San Francisco",
+        "description": "CNET is the place to get tech product reviews, news, price comparisons, videos, and podcasts.",
+        "url": "http://t.co/NajCuIAUyl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NajCuIAUyl",
+                "expanded_url": "http://www.cnet.com",
+                "display_url": "cnet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 969316,
+        "friends_count": 298,
+        "listed_count": 21986,
+        "created_at": "Fri Apr 10 17:10:53 +0000 2009",
+        "favourites_count": 781,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 86411,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 19:05:08 +0000 2015",
+          "id": 596390325855330300,
+          "id_str": "596390325855330304",
+          "text": "Write like a genius with the new Einstein font http://t.co/RceNoSI86P",
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/RceNoSI86P",
+                "expanded_url": "http://cnet.co/1GRukiw",
+                "display_url": "cnet.co/1GRukiw",
+                "indices": [
+                  47,
+                  69
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344156202/CNET-Twitter-Design4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344156202/CNET-Twitter-Design4.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459126531676049408/9DtDFag4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459126531676049408/9DtDFag4_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30261067/1423262771",
+        "profile_link_color": "0164A1",
+        "profile_sidebar_border_color": "DDDDDD",
+        "profile_sidebar_fill_color": "DDDDDD",
+        "profile_text_color": "404040",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 278142809,
+        "id_str": "278142809",
+        "name": "DreamHack",
+        "screen_name": "DreamHack",
+        "location": "",
+        "description": "#LAN #ESPORT #FESTIVAL #MUSIC #INTERNET #HYPE",
+        "url": "http://t.co/WwwGPxYQoF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WwwGPxYQoF",
+                "expanded_url": "http://www.dreamhack.se",
+                "display_url": "dreamhack.se",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 103761,
+        "friends_count": 26088,
+        "listed_count": 684,
+        "created_at": "Wed Apr 06 17:58:53 +0000 2011",
+        "favourites_count": 665,
+        "utc_offset": 7200,
+        "time_zone": "Ljubljana",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7886,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 18:20:18 +0000 2015",
+          "id": 596379041445322800,
+          "id_str": "596379041445322752",
+          "text": "RT @MonsterGaming: Check out some @DreamHackFR photos from today! #DHFR15 https://t.co/4u6TVckHcJ http://t.co/FSIBZquZDH",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Thu May 07 18:16:47 +0000 2015",
+            "id": 596378156170281000,
+            "id_str": "596378156170280961",
+            "text": "Check out some @DreamHackFR photos from today! #DHFR15 https://t.co/4u6TVckHcJ http://t.co/FSIBZquZDH",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+              "id": "65d3d595e8ee2942",
+              "url": "https://api.twitter.com/1.1/geo/id/65d3d595e8ee2942.json",
+              "place_type": "city",
+              "name": "Tours",
+              "full_name": "Tours, Centre",
+              "country_code": "FR",
+              "country": "France",
+              "contained_within": [],
+              "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                  [
+                    [
+                      0.652869,
+                      47.3488731
+                    ],
+                    [
+                      0.7373838,
+                      47.3488731
+                    ],
+                    [
+                      0.7373838,
+                      47.4395668
+                    ],
+                    [
+                      0.652869,
+                      47.4395668
+                    ]
+                  ]
+                ]
+              },
+              "attributes": {}
+            },
+            "contributors": null,
+            "retweet_count": 13,
+            "favorite_count": 25,
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "DHFR15",
+                  "indices": [
+                    47,
+                    54
+                  ]
+                }
+              ],
+              "symbols": [],
+              "user_mentions": [
+                {
+                  "screen_name": "DreamHackFR",
+                  "name": "DreamHack France",
+                  "id": 2459426514,
+                  "id_str": "2459426514",
+                  "indices": [
+                    15,
+                    27
+                  ]
+                }
+              ],
+              "urls": [
+                {
+                  "url": "https://t.co/4u6TVckHcJ",
+                  "expanded_url": "https://www.facebook.com/MonsterEnergyGaming/timeline/story?ut=43&wstart=0&wend=1433141999&hash=7850489352302938133&pagefilter=3",
+                  "display_url": "facebook.com/MonsterEnergyG…",
+                  "indices": [
+                    55,
+                    78
+                  ]
+                }
+              ],
+              "media": [
+                {
+                  "id": 596378135735574500,
+                  "id_str": "596378135735574528",
+                  "indices": [
+                    79,
+                    101
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/CEbCwTRUIAAbdio.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/CEbCwTRUIAAbdio.jpg",
+                  "url": "http://t.co/FSIBZquZDH",
+                  "display_url": "pic.twitter.com/FSIBZquZDH",
+                  "expanded_url": "http://twitter.com/MonsterGaming/status/596378156170280961/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                    "large": {
+                      "w": 640,
+                      "h": 817,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "w": 340,
+                      "h": 434,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "w": 600,
+                      "h": 765,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 13,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "DHFR15",
+                "indices": [
+                  66,
+                  73
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "MonsterGaming",
+                "name": "Monster Gaming",
+                "id": 60725654,
+                "id_str": "60725654",
+                "indices": [
+                  3,
+                  17
+                ]
+              },
+              {
+                "screen_name": "DreamHackFR",
+                "name": "DreamHack France",
+                "id": 2459426514,
+                "id_str": "2459426514",
+                "indices": [
+                  34,
+                  46
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/4u6TVckHcJ",
+                "expanded_url": "https://www.facebook.com/MonsterEnergyGaming/timeline/story?ut=43&wstart=0&wend=1433141999&hash=7850489352302938133&pagefilter=3",
+                "display_url": "facebook.com/MonsterEnergyG…",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 596378135735574500,
+                "id_str": "596378135735574528",
+                "indices": [
+                  98,
+                  120
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEbCwTRUIAAbdio.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEbCwTRUIAAbdio.jpg",
+                "url": "http://t.co/FSIBZquZDH",
+                "display_url": "pic.twitter.com/FSIBZquZDH",
+                "expanded_url": "http://twitter.com/MonsterGaming/status/596378156170280961/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 640,
+                    "h": 817,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 434,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 765,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                },
+                "source_status_id": 596378156170281000,
+                "source_status_id_str": "596378156170280961",
+                "source_user_id": 60725654,
+                "source_user_id_str": "60725654"
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/294488218/TwitPic200x200.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/294488218/TwitPic200x200.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458892227737964545/dBrD75oZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458892227737964545/dBrD75oZ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278142809/1427958156",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 18927441,
+        "id_str": "18927441",
+        "name": "IGN",
+        "screen_name": "IGN",
+        "location": "San Francisco, CA",
+        "description": "IGN is the place for video game news, game reviews and previews, guides, videos, walkthroughs, cheats, movie trailers, E3, TV, comics, and everything you love.",
+        "url": "http://t.co/QjpnpGC0H3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/QjpnpGC0H3",
+                "expanded_url": "http://www.ign.com",
+                "display_url": "ign.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2650052,
+        "friends_count": 439,
+        "listed_count": 19186,
+        "created_at": "Tue Jan 13 03:56:38 +0000 2009",
+        "favourites_count": 1449,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 61840,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 18:58:59 +0000 2015",
+          "id": 596388776236216300,
+          "id_str": "596388776236216320",
+          "text": "Keep an eye out at 8:30am PT on Tuesday, May 12th to see the next @AssassinsCreed game http://t.co/K3qfStGmwF http://t.co/oEbNPydTwp",
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 61,
+          "favorite_count": 93,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "assassinscreed",
+                "name": "Assassin's Creed",
+                "id": 38232487,
+                "id_str": "38232487",
+                "indices": [
+                  66,
+                  81
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/K3qfStGmwF",
+                "expanded_url": "http://go.ign.com/dtRNtlX",
+                "display_url": "go.ign.com/dtRNtlX",
+                "indices": [
+                  87,
+                  109
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 596388776060018700,
+                "id_str": "596388776060018688",
+                "indices": [
+                  110,
+                  132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEbMbpkWYAAVsEI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEbMbpkWYAAVsEI.jpg",
+                "url": "http://t.co/oEbNPydTwp",
+                "display_url": "pic.twitter.com/oEbNPydTwp",
+                "expanded_url": "http://twitter.com/IGN/status/596388776236216320/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 191,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 337,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 576,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539965302025375744/cPa5-6ew.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539965302025375744/cPa5-6ew.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433413072040898560/LXg26Ea9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433413072040898560/LXg26Ea9_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18927441/1430756176",
+        "profile_link_color": "D3222A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 414334713,
+        "id_str": "414334713",
+        "name": "Intel Gaming",
+        "screen_name": "IntelGaming",
+        "location": "Alien planets & arenas!",
+        "description": "Official Intel Gaming & Media Creation Handle| News on Products, Events, Contests & Deals .\nhttps://t.co/5i70sTG74N",
+        "url": "http://t.co/yuFqz3IPXp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yuFqz3IPXp",
+                "expanded_url": "http://www.intel.com/gaming",
+                "display_url": "intel.com/gaming",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/5i70sTG74N",
+                "expanded_url": "https://www.rebelmouse.com/IntelGaming/",
+                "display_url": "rebelmouse.com/IntelGaming/",
+                "indices": [
+                  92,
+                  115
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 157061,
+        "friends_count": 356,
+        "listed_count": 454,
+        "created_at": "Wed Nov 16 22:54:28 +0000 2011",
+        "favourites_count": 758,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3804,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 18:26:23 +0000 2015",
+          "id": 596380574052286500,
+          "id_str": "596380574052286464",
+          "text": "@timrutz beautiful!! So clean and love cable management. Did you do the wire stripping on your own?",
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "truncated": false,
+          "in_reply_to_status_id": 596327764539678700,
+          "in_reply_to_status_id_str": "596327764539678720",
+          "in_reply_to_user_id": 166203690,
+          "in_reply_to_user_id_str": "166203690",
+          "in_reply_to_screen_name": "timrutz",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "timrutz",
+                "name": "Tim Rutz",
+                "id": 166203690,
+                "id_str": "166203690",
+                "indices": [
+                  0,
+                  8
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/402721576/Intel_Gaming_bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/402721576/Intel_Gaming_bg.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000857186263/xyP_oi80_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000857186263/xyP_oi80_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/414334713/1402602987",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 1452520626,
+        "id_str": "1452520626",
+        "name": "Cloud9",
+        "screen_name": "Cloud9gg",
+        "location": "Los Angeles, CA",
+        "description": "Official Twitter account of professional multi-gaming organization Cloud9 with teams in LoL, Dota 2, CS:GO, Hearthstone, SSBM, HotS, SMITE and Halo",
+        "url": "http://t.co/k3RrcvUVPV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/k3RrcvUVPV",
+                "expanded_url": "http://www.cloud9.gg",
+                "display_url": "cloud9.gg",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 184627,
+        "friends_count": 131,
+        "listed_count": 659,
+        "created_at": "Thu May 23 21:10:31 +0000 2013",
+        "favourites_count": 3978,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5719,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 02:31:12 +0000 2015",
+          "id": 596140191401652200,
+          "id_str": "596140191401652224",
+          "text": "We are proud to be invited to this year's International in Seattle. Can't wait to see everyone there and a big thanks to all our fans! #TI5",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 78,
+          "favorite_count": 189,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "TI5",
+                "indices": [
+                  135,
+                  139
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C4C4C4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583662401918107648/a9HZSvND.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583662401918107648/a9HZSvND.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564966290494722049/PIsew-Zt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564966290494722049/PIsew-Zt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452520626/1427991015",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 61559439,
+        "id_str": "61559439",
+        "name": "NVIDIA",
+        "screen_name": "nvidia",
+        "location": "Santa Clara, CA",
+        "description": "The official Twitter channel for all NVIDIA news. Blog: http://t.co/ohDSqem8a5 Support: http://t.co/yDA5tgMw90 / All NVIDIA Social Media: http://t.co/Y4gzIj0jxL",
+        "url": "http://t.co/SjzHg85NVX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/SjzHg85NVX",
+                "expanded_url": "http://www.nvidia.com",
+                "display_url": "nvidia.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/ohDSqem8a5",
+                "expanded_url": "http://blogs.nvidia.com",
+                "display_url": "blogs.nvidia.com",
+                "indices": [
+                  56,
+                  78
+                ]
+              },
+              {
+                "url": "http://t.co/yDA5tgMw90",
+                "expanded_url": "http://nvda.ly/DfKXi",
+                "display_url": "nvda.ly/DfKXi",
+                "indices": [
+                  88,
+                  110
+                ]
+              },
+              {
+                "url": "http://t.co/Y4gzIj0jxL",
+                "expanded_url": "http://nvda.ly/DfKUA",
+                "display_url": "nvda.ly/DfKUA",
+                "indices": [
+                  138,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 814335,
+        "friends_count": 937,
+        "listed_count": 3797,
+        "created_at": "Thu Jul 30 18:25:14 +0000 2009",
+        "favourites_count": 184,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6140,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 15:27:38 +0000 2015",
+          "id": 596335588430712800,
+          "id_str": "596335588430712832",
+          "text": "Fed-Extraterrestrial? @astrobotic’s lunar delivery service is coming, guided by #TegraK1. http://t.co/EimT717ZQz http://t.co/9eL5ab9zYR",
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 19,
+          "favorite_count": 38,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "TegraK1",
+                "indices": [
+                  80,
+                  88
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "astrobotic",
+                "name": "Astrobotic",
+                "id": 228593079,
+                "id_str": "228593079",
+                "indices": [
+                  22,
+                  33
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/EimT717ZQz",
+                "expanded_url": "http://nvda.co/eeYbtXb",
+                "display_url": "nvda.co/eeYbtXb",
+                "indices": [
+                  90,
+                  112
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 596335588317524000,
+                "id_str": "596335588317523968",
+                "indices": [
+                  113,
+                  135
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEacDtyW8AANY00.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEacDtyW8AANY00.jpg",
+                "url": "http://t.co/9eL5ab9zYR",
+                "display_url": "pic.twitter.com/9eL5ab9zYR",
+                "expanded_url": "http://twitter.com/nvidia/status/596335588430712832/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 1024,
+                    "h": 512,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 300,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 170,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D5D5D5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/886744579/46e64243a7137ebbfadf45f64fe6f18e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/886744579/46e64243a7137ebbfadf45f64fe6f18e.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/467079983936970752/LUOWehvo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/467079983936970752/LUOWehvo_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61559439/1427123338",
+        "profile_link_color": "2276BB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 15853668,
+        "id_str": "15853668",
+        "name": "MLG",
+        "screen_name": "MLG",
+        "location": "New York, NY",
+        "description": "The official Twitter account of Major League Gaming, The world leader in competitive eSports.",
+        "url": "http://t.co/WyfgqFg4w8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WyfgqFg4w8",
+                "expanded_url": "http://MLG.tv",
+                "display_url": "MLG.tv",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 957349,
+        "friends_count": 799,
+        "listed_count": 2595,
+        "created_at": "Thu Aug 14 18:15:36 +0000 2008",
+        "favourites_count": 493,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 34488,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 19:05:00 +0000 2015",
+          "id": 596390293080936400,
+          "id_str": "596390293080936450",
+          "text": "The @GFinity #CoDMasters bracket show is LIVE!\n\nGet your predictions in here-&gt; http://t.co/Ad938hbj5O http://t.co/DpPkWNC7mr",
+          "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 3,
+          "favorite_count": 4,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "CoDMasters",
+                "indices": [
+                  13,
+                  24
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Gfinity",
+                "name": "Gfinity",
+                "id": 1225628126,
+                "id_str": "1225628126",
+                "indices": [
+                  4,
+                  12
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/Ad938hbj5O",
+                "expanded_url": "http://MLG.tv/ESR_",
+                "display_url": "MLG.tv/ESR_",
+                "indices": [
+                  82,
+                  104
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 596390292984451100,
+                "id_str": "596390292984451073",
+                "indices": [
+                  105,
+                  127
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEbNz8jUUAE2D0z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEbNz8jUUAE2D0z.jpg",
+                "url": "http://t.co/DpPkWNC7mr",
+                "display_url": "pic.twitter.com/DpPkWNC7mr",
+                "expanded_url": "http://twitter.com/MLG/status/596390293080936450/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 599,
+                    "h": 337,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 599,
+                    "h": 337,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 191,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529303846636355585/EBvdfaaV.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529303846636355585/EBvdfaaV.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000794409140/487ba69af28688113c68a71e8147b587_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000794409140/487ba69af28688113c68a71e8147b587_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15853668/1417469581",
+        "profile_link_color": "085796",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 764818,
+        "id_str": "764818",
+        "name": "claudiu florea",
+        "screen_name": "claudinho",
+        "location": "Iasi, Romania",
+        "description": "A sparking curious mind, husband, father of a beautiful girl, Marketing Consultant, founder & board @fciasi, dancer, AS Roma & #LFC fan. views mostly my own.",
+        "url": "http://t.co/xbHXlowFxe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/xbHXlowFxe",
+                "expanded_url": "http://about.me/claudinho",
+                "display_url": "about.me/claudinho",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1661,
+        "friends_count": 1849,
+        "listed_count": 62,
+        "created_at": "Sun Feb 11 16:38:17 +0000 2007",
+        "favourites_count": 1827,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9006,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 14:50:18 +0000 2015",
+          "id": 596326192946503700,
+          "id_str": "596326192946503682",
+          "text": "Valuation As A Scorecard – AVC http://t.co/2GKXHIjyqb",
+          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/2GKXHIjyqb",
+                "expanded_url": "http://ow.ly/MDmoD",
+                "display_url": "ow.ly/MDmoD",
+                "indices": [
+                  31,
+                  53
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "fr"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535186194435301376/k5df4Cjn.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535186194435301376/k5df4Cjn.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/483850425334902784/sayhv4Ld_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/483850425334902784/sayhv4Ld_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764818/1414347289",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 11026952,
+        "id_str": "11026952",
+        "name": "Miami HEAT",
+        "screen_name": "MiamiHEAT",
+        "location": "",
+        "description": "The official Twitter account of the Miami HEAT",
+        "url": "http://t.co/MyQr7f2LBb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/MyQr7f2LBb",
+                "expanded_url": "http://HEAT.com",
+                "display_url": "HEAT.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3004981,
+        "friends_count": 157885,
+        "listed_count": 9609,
+        "created_at": "Mon Dec 10 19:43:58 +0000 2007",
+        "favourites_count": 17,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 33064,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 14:48:50 +0000 2015",
+          "id": 596325826066538500,
+          "id_str": "596325826066538496",
+          "text": "RT @Goran_Dragic: Happy b-day TJ https://t.co/1S7s5cDgoQ",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Thu May 07 14:45:19 +0000 2015",
+            "id": 596324939633991700,
+            "id_str": "596324939633991680",
+            "text": "Happy b-day TJ https://t.co/1S7s5cDgoQ",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+              "id": "58f54743b1a62911",
+              "url": "https://api.twitter.com/1.1/geo/id/58f54743b1a62911.json",
+              "place_type": "country",
+              "name": "Republic of Slovenia",
+              "full_name": "Republic of Slovenia",
+              "country_code": "SI",
+              "country": "Slovenija",
+              "contained_within": [],
+              "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                  [
+                    [
+                      13.3755107,
+                      45.42151
+                    ],
+                    [
+                      16.6104836,
+                      45.42151
+                    ],
+                    [
+                      16.6104836,
+                      46.8766467
+                    ],
+                    [
+                      13.3755107,
+                      46.8766467
+                    ]
+                  ]
+                ]
+              },
+              "attributes": {}
+            },
+            "contributors": null,
+            "retweet_count": 134,
+            "favorite_count": 267,
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": [
+                {
+                  "url": "https://t.co/1S7s5cDgoQ",
+                  "expanded_url": "https://twitter.com/miamiheat/status/596318981805441024",
+                  "display_url": "twitter.com/miamiheat/stat…",
+                  "indices": [
+                    15,
+                    38
+                  ]
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 134,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Goran_Dragic",
+                "name": "Goran Dragic",
+                "id": 356859571,
+                "id_str": "356859571",
+                "indices": [
+                  3,
+                  16
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/1S7s5cDgoQ",
+                "expanded_url": "https://twitter.com/miamiheat/status/596318981805441024",
+                "display_url": "twitter.com/miamiheat/stat…",
+                "indices": [
+                  33,
+                  56
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519967277450412034/wi6Lvarf.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519967277450412034/wi6Lvarf.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/569875628816474112/mHZA2ueR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/569875628816474112/mHZA2ueR_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11026952/1424703900",
+        "profile_link_color": "EB1717",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 3190119059,
+        "id_str": "3190119059",
+        "name": "Andrei Cioromila",
+        "screen_name": "AndreiCioromila",
+        "location": "Iaşi, România",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 41,
+        "listed_count": 0,
+        "created_at": "Tue Apr 21 09:41:06 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue May 05 14:36:37 +0000 2015",
+          "id": 595597974069256200,
+          "id_str": "595597974069256192",
+          "text": "Hello Twitter! #myfirstTweet",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "myfirstTweet",
+                "indices": [
+                  15,
+                  28
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "no"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 576185800,
+        "id_str": "576185800",
+        "name": "Clement Ivanov",
+        "screen_name": "CLEMENTINATOR",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 124038,
+        "friends_count": 45,
+        "listed_count": 515,
+        "created_at": "Thu May 10 12:15:25 +0000 2012",
+        "favourites_count": 1,
+        "utc_offset": 10800,
+        "time_zone": "Athens",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 247,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 07 01:49:58 +0000 2015",
+          "id": 596129817566675000,
+          "id_str": "596129817566674944",
+          "text": "Ready to go. http://t.co/eGW3Frp5J7",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 295,
+          "favorite_count": 612,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 596129813645013000,
+                "id_str": "596129813645012992",
+                "indices": [
+                  13,
+                  35
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEXg6DZUsAA7Z4D.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEXg6DZUsAA7Z4D.jpg",
+                "url": "http://t.co/eGW3Frp5J7",
+                "display_url": "pic.twitter.com/eGW3Frp5J7",
+                "expanded_url": "http://twitter.com/CLEMENTINATOR/status/596129817566674944/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 340,
+                    "h": 322,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 972,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 569,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/761525567/7cfbaddfab242c7f7899e541c5703bf7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/761525567/7cfbaddfab242c7f7899e541c5703bf7.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2784939943/a0a3a8eedd86c8dd0686fcee3dc433a0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2784939943/a0a3a8eedd86c8dd0686fcee3dc433a0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 1186297422,
+        "id_str": "1186297422",
+        "name": "Neculai Andrei",
+        "screen_name": "neculaiandrei",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Feb 16 13:53:09 +0000 2013",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun Apr 12 22:20:41 +0000 2015",
+          "id": 587379839256006700,
+          "id_str": "587379839256006657",
+          "text": "Samsung Galaxy S6 Giveaway @androidauth https://t.co/pSfZ1Atg7y",
+          "source": "<a href=\"https://gleam.io\" rel=\"nofollow\">Gleam Competition App</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "AndroidAuth",
+                "name": "Android Authority",
+                "id": 95438524,
+                "id_str": "95438524",
+                "indices": [
+                  27,
+                  39
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/pSfZ1Atg7y",
+                "expanded_url": "https://gleam.io/owjQk-q40Rlf?l=http%3A%2F%2Fwww.androidauthority.com%2Fsamsung-galaxy-s6-international-giveaway-3-600203%2F",
+                "display_url": "gleam.io/owjQk-q40Rlf?l…",
+                "indices": [
+                  40,
+                  63
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      }
+    ],
+    "next_cursor": 1499108329704001000,
+    "next_cursor_str": "1499108329704001111",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0"
+  }
+}
