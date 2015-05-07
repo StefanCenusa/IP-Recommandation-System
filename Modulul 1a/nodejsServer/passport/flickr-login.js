@@ -13,7 +13,7 @@ module.exports = function (passport) {
     passport.use(new FlickrStrategy({
             consumerKey: config.flickrAPI.consumerKey,
             consumerSecret: config.flickrAPI.consumerSecret,
-            callbackURL: "http://46.101.55.154:80/auth/flickr/callback"
+            callbackURL: "http://46.101.55.154//auth/flickr/callback"
         },
         function (token, tokenSecret, profile, done) {
             var userJSON = {};
@@ -41,13 +41,34 @@ module.exports = function (passport) {
                             userJSON.photos.photo[iterator].info = result;
                             iterator ++;
                             if (iterator === userJSON.photos.photo.length)
-                                callback(null, userJSON.photos);
+                                callback(null, result.photos);
                         })
                     });
                     if (userJSON.photos.photo.length === 0)
                         callback(null, userJSON.photos);
                 })
-            }], function (err, res) { 
+            },
+                function (callback) {
+
+                    var flickr_params = {
+                        user_id: profile.id
+                    }
+
+                    client.executeAPIRequest("flickr.favorites.getList", flickr_params, false, function (err, result) {
+                        userJSON.favoritesPhotos = result.photos;
+                        var iterator = 0;
+                        result.photos.photo.forEach(function(item){
+                            client.executeAPIRequest("flickr.photos.getInfo", {photo_id: item.id}, false, function (err, result){
+                                userJSON.favoritesPhotos.photo[iterator].info = result;
+                                iterator ++;
+                                if (iterator === userJSON.favoritesPhotos.photo.length)
+                                    callback(null, result.photos);
+                            })
+                        });
+                        if (userJSON.favoritesPhotos.photo.length === 0)
+                            callback(null, userJSON.favoritesPhotos);
+                    })
+                }], function (err, res) {
                 var fileName = dir + userJSON.profile.fullName + '.json';
                 fs.writeFile(fileName, JSON.stringify(userJSON, null, 2), function (err) {
                     if (err) throw err;
