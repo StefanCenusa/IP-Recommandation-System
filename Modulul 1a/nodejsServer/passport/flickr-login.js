@@ -28,19 +28,26 @@ module.exports = function (passport) {
             );
 
             async.parallel([function (callback) {
-                var flickr_params = {
-                    text: "audi",
-                    media: "photos",
-                    per_page: 25,
-                    page: 1,
-                    extras: "url_q, url_z, url_b, owner_name"
-                };
 
-                client.executeAPIRequest("flickr.photos.search", flickr_params, false, function (err, result) {
+                var flickr_params = {
+                    user_id: profile.id
+                }
+
+                client.executeAPIRequest("flickr.people.getPhotos", flickr_params, false, function (err, result) {
                     userJSON.photos = result.photos;
-                    callback(null, result.photos);
+                    var iterator = 0;
+                    result.photos.photo.forEach(function(item){
+                        client.executeAPIRequest("flickr.photos.getInfo", {photo_id: item.id}, false, function (err, result){
+                            userJSON.photos.photo[iterator].info = result;
+                            iterator ++;
+                            if (iterator === userJSON.photos.photo.length)
+                                callback(null, userJSON.photos);
+                        })
+                    });
+                    if (userJSON.photos.photo.length === 0)
+                        callback(null, userJSON.photos);
                 })
-            }], function (err, res) {
+            }], function (err, res) { 
                 var fileName = dir + userJSON.profile.displayName + '.json';
                 fs.writeFile(fileName, JSON.stringify(userJSON, null, 2), function (err) {
                     if (err) throw err;

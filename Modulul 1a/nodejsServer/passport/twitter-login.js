@@ -32,6 +32,13 @@ module.exports = function (passport) {
                         callback(null, 'tweets added');
                     }
                 });
+            },
+            function(callback){
+            	client.get('friends/list', function(error, tweets, response){
+					if(error) throw error;
+					userJSON.friendsList = tweets;
+                    callback(null, 'favorites list added');
+					});
             }], function (err, res) {
                 var fileName = dir + userJSON.profile.username + '.json';
                 fs.writeFile(fileName, JSON.stringify(userJSON, null, 2), function (err) {
