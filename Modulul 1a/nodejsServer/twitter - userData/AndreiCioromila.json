@@ -1,0 +1,193 @@
+{
+  "profile": {
+    "id": "3190119059",
+    "username": "AndreiCioromila",
+    "displayName": "Andrei Cioromila",
+    "photos": [
+      {
+        "value": "https://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":3190119059,\"id_str\":\"3190119059\",\"name\":\"Andrei Cioromila\",\"screen_name\":\"AndreiCioromila\",\"location\":\"Ia\\u015fi, Rom\\u00e2nia\",\"profile_location\":{\"id\":\"0020a15a41fdf6b9\",\"url\":\"https:\\/\\/api.twitter.com\\/1.1\\/geo\\/id\\/0020a15a41fdf6b9.json\",\"place_type\":\"unknown\",\"name\":\"Ia\\u015fi, Rom\\u00e2nia\",\"full_name\":\"Ia\\u015fi, Rom\\u00e2nia\",\"country_code\":\"\",\"country\":\"\",\"contained_within\":[],\"bounding_box\":null,\"attributes\":{}},\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":6,\"friends_count\":41,\"listed_count\":0,\"created_at\":\"Tue Apr 21 09:41:06 +0000 2015\",\"favourites_count\":0,\"utc_offset\":10800,\"time_zone\":\"Bucharest\",\"geo_enabled\":false,\"verified\":false,\"statuses_count\":1,\"lang\":\"en\",\"status\":{\"created_at\":\"Tue May 05 14:36:37 +0000 2015\",\"id\":595597974069256192,\"id_str\":\"595597974069256192\",\"text\":\"Hello Twitter! #myfirstTweet\",\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"truncated\":false,\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweet_count\":0,\"favorite_count\":0,\"entities\":{\"hashtags\":[{\"text\":\"myfirstTweet\",\"indices\":[15,28]}],\"symbols\":[],\"user_mentions\":[],\"urls\":[]},\"favorited\":false,\"retweeted\":false,\"lang\":\"no\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/590451010168102912\\/E7HPkh2r_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/590451010168102912\\/E7HPkh2r_normal.jpg\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 3190119059,
+      "id_str": "3190119059",
+      "name": "Andrei Cioromila",
+      "screen_name": "AndreiCioromila",
+      "location": "Iaşi, România",
+      "profile_location": {
+        "id": "0020a15a41fdf6b9",
+        "url": "https://api.twitter.com/1.1/geo/id/0020a15a41fdf6b9.json",
+        "place_type": "unknown",
+        "name": "Iaşi, România",
+        "full_name": "Iaşi, România",
+        "country_code": "",
+        "country": "",
+        "contained_within": [],
+        "bounding_box": null,
+        "attributes": {}
+      },
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6,
+      "friends_count": 41,
+      "listed_count": 0,
+      "created_at": "Tue Apr 21 09:41:06 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue May 05 14:36:37 +0000 2015",
+        "id": 595597974069256200,
+        "id_str": "595597974069256192",
+        "text": "Hello Twitter! #myfirstTweet",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "myfirstTweet",
+              "indices": [
+                15,
+                28
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "no"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [
+    {
+      "created_at": "Tue May 05 14:36:37 +0000 2015",
+      "id": 595597974069256200,
+      "id_str": "595597974069256192",
+      "text": "Hello Twitter! #myfirstTweet",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3190119059,
+        "id_str": "3190119059",
+        "name": "Andrei Cioromila",
+        "screen_name": "AndreiCioromila",
+        "location": "Iaşi, România",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 41,
+        "listed_count": 0,
+        "created_at": "Tue Apr 21 09:41:06 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590451010168102912/E7HPkh2r_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "myfirstTweet",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "no"
+    }
+  ]
+}

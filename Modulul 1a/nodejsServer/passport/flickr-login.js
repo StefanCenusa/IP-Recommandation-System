@@ -1,18 +1,19 @@
 var FlickrStrategy = require('passport-flickr').Strategy;
 var http = require("http");
+var path = require('path');
 var https = require("https");
 var Flickr = require('flickr').Flickr;
 var fs = require('fs');
 var async = require('async');
 var config = require('../config');
 
-const dir = "../flickr - userData/";
+const dir = path.join(__dirname,"..","flickr - userData",'/');
 
 module.exports = function (passport) {
     passport.use(new FlickrStrategy({
             consumerKey: config.flickrAPI.consumerKey,
             consumerSecret: config.flickrAPI.consumerSecret,
-            callbackURL: "http://127.0.0.1:3000/auth/flickr/callback"
+            callbackURL: "http://46.101.55.154:80/auth/flickr/callback"
         },
         function (token, tokenSecret, profile, done) {
             var userJSON = {};
@@ -28,7 +29,7 @@ module.exports = function (passport) {
 
             async.parallel([function (callback) {
                 var flickr_params = {
-                    text: "soccer",
+                    text: "audi",
                     media: "photos",
                     per_page: 25,
                     page: 1,

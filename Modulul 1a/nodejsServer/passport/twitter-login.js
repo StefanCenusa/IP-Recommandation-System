@@ -1,4 +1,5 @@
 var TwitterStrategy = require('passport-twitter').Strategy;
+var path = require('path');
 var http = require("http");
 var https = require("https");
 var Twitter = require('twitter');
@@ -6,13 +7,13 @@ var fs = require('fs');
 var async = require('async');
 var config = require('../config');
 
-const dir = "../twitter - userData/";
+const dir = path.join(__dirname,"..","twitter - userData",'/');
 
 module.exports = function (passport) {
     passport.use(new TwitterStrategy({
             consumerKey: config.twitterAPI.consumerKey,
             consumerSecret: config.twitterAPI.consumerSecret,
-            callbackURL: "http://127.0.0.1:3000/auth/twitter/callback"
+            callbackURL: "http://46.101.55.154:80/auth/twitter/callback"
         },
         function (token, tokenSecret, profile, done) {
             var userJSON = {};
