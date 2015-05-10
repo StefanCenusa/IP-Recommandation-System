@@ -5,14 +5,357 @@
     "displayName": "czmanea",
     "fullName": "Cezar Manea"
   },
-  "photos": {
-    "page": 1,
-    "pages": 0,
-    "perpage": 100,
-    "total": "0",
-    "photo": []
-  },
   "favoritesPhotos": {
+    "page": 1,
+    "pages": 1,
+    "perpage": 100,
+    "total": "2",
+    "photo": [
+      {
+        "id": "8324262159",
+        "owner": "32313428@N08",
+        "secret": "d315c1fb9c",
+        "server": "8498",
+        "farm": 9,
+        "title": "Dani Barbershop",
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0,
+        "date_faved": "1431026550",
+        "info": {
+          "photo": {
+            "id": "15122356841",
+            "secret": "3a5f14c091",
+            "server": "3849",
+            "farm": 4,
+            "dateuploaded": "1409724854",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "originalsecret": "e0a0f103d9",
+            "originalformat": "jpg",
+            "owner": {
+              "nsid": "94816772@N00",
+              "username": "www.trentonmichael.com",
+              "realname": "Trent Davis",
+              "location": "West Jordan, Utah, United States",
+              "iconserver": "5113",
+              "iconfarm": 6,
+              "path_alias": "trentdavis"
+            },
+            "title": {
+              "_content": "Bald Mountain Overlook, Utah"
+            },
+            "description": {
+              "_content": "Took a two mile hike to the top of Bald Mountain to discover that northern Utah had views like this! Amazing!\n\nPentax 6x7 + Portra 160\nAlpine Film Lab"
+            },
+            "visibility": {
+              "ispublic": 1,
+              "isfriend": 0,
+              "isfamily": 0
+            },
+            "dates": {
+              "posted": "1409724854",
+              "taken": "2014-09-02 00:30:42",
+              "takengranularity": "0",
+              "takenunknown": 0,
+              "lastupdate": "1430465266"
+            },
+            "views": "381969",
+            "editability": {
+              "cancomment": 0,
+              "canaddmeta": 0
+            },
+            "publiceditability": {
+              "cancomment": 1,
+              "canaddmeta": 0
+            },
+            "usage": {
+              "candownload": 1,
+              "canblog": 0,
+              "canprint": 0,
+              "canshare": 1
+            },
+            "comments": {
+              "_content": "90"
+            },
+            "notes": {
+              "note": []
+            },
+            "people": {
+              "haspeople": 0
+            },
+            "tags": {
+              "tag": [
+                {
+                  "id": "2211962-15122356841-664",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "film",
+                  "_content": "film",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-1930152",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "film is not dead",
+                  "_content": "filmisnotdead",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-213880035",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "alpine film lab",
+                  "_content": "alpinefilmlab",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-923334",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "portra 160",
+                  "_content": "portra160",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-4689",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "kodak",
+                  "_content": "kodak",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-569814",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "pentax 6x7",
+                  "_content": "pentax6x7",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-1412",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "medium format",
+                  "_content": "mediumformat",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-1273",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "analog",
+                  "_content": "analog",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-70668541",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "trenton michael davis",
+                  "_content": "trentonmichaeldavis",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-1695",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "landscape",
+                  "_content": "landscape",
+                  "machine_tag": false
+                },
+                {
+                  "id": "2211962-15122356841-2290",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "utah",
+                  "_content": "utah",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-25503",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "slc",
+                  "_content": "slc",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-9860",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "hike",
+                  "_content": "hike",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-121",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "travel",
+                  "_content": "travel",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-46014",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "epic",
+                  "_content": "epic",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "2211962-15122356841-193454",
+                  "author": "94816772@N00",
+                  "authorname": "www.trentonmichael.com",
+                  "raw": "vast",
+                  "_content": "vast",
+                  "machine_tag": 0
+                }
+              ]
+            },
+            "urls": {
+              "url": [
+                {
+                  "type": "photopage",
+                  "_content": "https://www.flickr.com/photos/trentdavis/15122356841/"
+                }
+              ]
+            },
+            "media": "photo"
+          },
+          "stat": "ok"
+        }
+      },
+      {
+        "id": "15122356841",
+        "owner": "94816772@N00",
+        "secret": "3a5f14c091",
+        "server": "3849",
+        "farm": 4,
+        "title": "Bald Mountain Overlook, Utah",
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0,
+        "date_faved": "1431026534",
+        "info": {
+          "photo": {
+            "id": "8324262159",
+            "secret": "d315c1fb9c",
+            "server": "8498",
+            "farm": 9,
+            "dateuploaded": "1356857180",
+            "isfavorite": 0,
+            "license": "0",
+            "safety_level": "0",
+            "rotation": 0,
+            "owner": {
+              "nsid": "32313428@N08",
+              "username": "TSOTOGRAPHY.com",
+              "realname": "Andrew Tso",
+              "location": "",
+              "iconserver": "7405",
+              "iconfarm": 8,
+              "path_alias": "tsotso"
+            },
+            "title": {
+              "_content": "Dani Barbershop"
+            },
+            "description": {
+              "_content": "in Jakarta, Indonesia\n\n<a href=\"http://www.TSOTOGRAPHY.com\" rel=\"nofollow\">www.TSOTOGRAPHY.com</a>"
+            },
+            "visibility": {
+              "ispublic": 1,
+              "isfriend": 0,
+              "isfamily": 0
+            },
+            "dates": {
+              "posted": "1356857180",
+              "taken": "2012-12-23 19:12:57",
+              "takengranularity": "0",
+              "takenunknown": 0,
+              "lastupdate": "1429613631"
+            },
+            "views": "122087",
+            "editability": {
+              "cancomment": 0,
+              "canaddmeta": 0
+            },
+            "publiceditability": {
+              "cancomment": 1,
+              "canaddmeta": 0
+            },
+            "usage": {
+              "candownload": 0,
+              "canblog": 0,
+              "canprint": 0,
+              "canshare": 1
+            },
+            "comments": {
+              "_content": "19"
+            },
+            "notes": {
+              "note": []
+            },
+            "people": {
+              "haspeople": 0
+            },
+            "tags": {
+              "tag": [
+                {
+                  "id": "32220615-8324262159-13508",
+                  "author": "32313428@N08",
+                  "authorname": "TSOTOGRAPHY.com",
+                  "raw": "Jakarta",
+                  "_content": "jakarta",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "32220615-8324262159-1614",
+                  "author": "32313428@N08",
+                  "authorname": "TSOTOGRAPHY.com",
+                  "raw": "Indonesia",
+                  "_content": "indonesia",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "32220615-8324262159-106865",
+                  "author": "32313428@N08",
+                  "authorname": "TSOTOGRAPHY.com",
+                  "raw": "slums",
+                  "_content": "slums",
+                  "machine_tag": 0
+                },
+                {
+                  "id": "32220615-8324262159-384538",
+                  "author": "32313428@N08",
+                  "authorname": "TSOTOGRAPHY.com",
+                  "raw": "30mm",
+                  "_content": "30mm",
+                  "machine_tag": 0
+                }
+              ]
+            },
+            "urls": {
+              "url": [
+                {
+                  "type": "photopage",
+                  "_content": "https://www.flickr.com/photos/tsotso/8324262159/"
+                }
+              ]
+            },
+            "media": "photo"
+          },
+          "stat": "ok"
+        }
+      }
+    ]
+  },
+  "photos": {
     "page": 1,
     "pages": 0,
     "perpage": 100,
