@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.Scanner;
 
 import com.flickr4java.flickr.Flickr;
@@ -8,6 +9,8 @@ import com.flickr4java.flickr.groups.GroupList;
 import com.flickr4java.flickr.photos.Photo;
 import com.flickr4java.flickr.photos.PhotoList;
 import com.flickr4java.flickr.photos.SearchParameters;
+
+
 
 public class MainClass 
 {
@@ -40,10 +43,12 @@ public class MainClass
         }
         return list;
     }
-	public static void main(String[] args)
+	public static void main(String[] args)throws IOException
     {
+        JsonParser.getJsonFromPath("profile.json");
 		Scanner keyboard = new Scanner(System.in);
-		System.out.println("Enter keywords:");
+		System.out.println(JsonParser.getValueByKey("FavTeams"));
+        System.out.println("Enter keywords:");
 		String keywords= keyboard.nextLine();
 		
 		System.out.println("Enter number of photos per page:");
@@ -53,8 +58,9 @@ public class MainClass
 		int pageNumber= keyboard.nextInt();
 		
 		keyboard.close();
-		
-		GroupList<Group> list= searchGroups(keywords,resultsPerPage,pageNumber);
-		System.out.println(list.get(1).getPhotoCount());
+
+        PhotoList<Photo> list = searchPhotos(keywords,resultsPerPage,pageNumber);
+		//GroupList<Group> list= searchGroups(keywords,resultsPerPage,pageNumber);
+		//System.out.println(list.get(1).getPhotoCount());
     }
 }
