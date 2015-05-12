@@ -9,7 +9,7 @@
       }
     ],
     "provider": "twitter",
-    "_raw": "{\"id\":3182135331,\"id_str\":\"3182135331\",\"name\":\"Roxana Spatariu\",\"screen_name\":\"roxana_spatariu\",\"location\":\"\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":2,\"friends_count\":6,\"listed_count\":0,\"created_at\":\"Sun Apr 19 07:12:44 +0000 2015\",\"favourites_count\":2,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"ro\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_raw": "{\"id\":3182135331,\"id_str\":\"3182135331\",\"name\":\"Roxana Spatariu\",\"screen_name\":\"roxana_spatariu\",\"location\":\"\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":1,\"friends_count\":6,\"listed_count\":0,\"created_at\":\"Sun Apr 19 07:12:44 +0000 2015\",\"favourites_count\":2,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"ro\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
     "_json": {
       "id": 3182135331,
       "id_str": "3182135331",
@@ -25,7 +25,7 @@
         }
       },
       "protected": false,
-      "followers_count": 2,
+      "followers_count": 1,
       "friends_count": 6,
       "listed_count": 0,
       "created_at": "Sun Apr 19 07:12:44 +0000 2015",
@@ -90,22 +90,22 @@
           }
         },
         "protected": false,
-        "followers_count": 2761147,
-        "friends_count": 1138,
-        "listed_count": 3053,
+        "followers_count": 2793410,
+        "friends_count": 1140,
+        "listed_count": 3078,
         "created_at": "Sat Jan 07 15:05:53 +0000 2012",
-        "favourites_count": 17720,
+        "favourites_count": 17721,
         "utc_offset": 7200,
         "time_zone": "Amsterdam",
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 11037,
+        "statuses_count": 11073,
         "lang": "en",
         "status": {
-          "created_at": "Thu May 07 18:48:12 +0000 2015",
-          "id": 596386062152441900,
-          "id_str": "596386062152441856",
-          "text": "How excited and happy do my team look? jackmethod @laurensarmes https://t.co/i42vKZyt6t",
+          "created_at": "Tue May 12 05:12:29 +0000 2015",
+          "id": 597992720112721900,
+          "id_str": "597992720112721920",
+          "text": "❤️I'm missing it already https://t.co/uHV9j3dtO0",
           "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
@@ -117,31 +117,20 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 448,
-          "favorite_count": 1530,
+          "retweet_count": 278,
+          "favorite_count": 901,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "laurensarmes",
-                "name": "Lauren Armes",
-                "id": 40926663,
-                "id_str": "40926663",
-                "indices": [
-                  50,
-                  63
-                ]
-              }
-            ],
+            "user_mentions": [],
             "urls": [
               {
-                "url": "https://t.co/i42vKZyt6t",
-                "expanded_url": "https://instagram.com/p/2ZC2IQR2XK/",
-                "display_url": "instagram.com/p/2ZC2IQR2XK/",
+                "url": "https://t.co/uHV9j3dtO0",
+                "expanded_url": "https://instagram.com/p/2kdeBYR2Qa/",
+                "display_url": "instagram.com/p/2kdeBYR2Qa/",
                 "indices": [
-                  64,
-                  87
+                  25,
+                  48
                 ]
               }
             ]
@@ -202,22 +191,22 @@
           }
         },
         "protected": false,
-        "followers_count": 331111,
+        "followers_count": 334357,
         "friends_count": 446,
-        "listed_count": 956,
+        "listed_count": 971,
         "created_at": "Fri Mar 11 00:48:12 +0000 2011",
-        "favourites_count": 1718,
+        "favourites_count": 1717,
         "utc_offset": 3600,
         "time_zone": "Casablanca",
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1853,
+        "statuses_count": 1855,
         "lang": "en",
         "status": {
-          "created_at": "Wed May 06 02:56:14 +0000 2015",
-          "id": 595784105704427500,
-          "id_str": "595784105704427521",
-          "text": "Thank you everyone who came to the show at the @FloridaTheatre tonight in Jacksonville. Sorry I can't stick to meet anyone. You were awesome",
+          "created_at": "Mon May 11 19:47:58 +0000 2015",
+          "id": 597850655261339600,
+          "id_str": "597850655261339648",
+          "text": "Please watch &amp; share this video about Dylan Finglas, his need for a cure for MSD http://t.co/yf81p9lIe9 http://t.co/zDDBRH5pED thank you!",
           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
@@ -229,27 +218,36 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 225,
-          "favorite_count": 1098,
+          "retweet_count": 330,
+          "favorite_count": 457,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "FloridaTheatre",
-                "name": "The Florida Theatre",
-                "id": 14089589,
-                "id_str": "14089589",
+                "url": "http://t.co/yf81p9lIe9",
+                "expanded_url": "http://youtu.be/DZaz_mDCTtI",
+                "display_url": "youtu.be/DZaz_mDCTtI",
                 "indices": [
-                  47,
-                  62
+                  85,
+                  107
+                ]
+              },
+              {
+                "url": "http://t.co/zDDBRH5pED",
+                "expanded_url": "http://www.savingdylan.com",
+                "display_url": "savingdylan.com",
+                "indices": [
+                  108,
+                  130
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "en"
         },
         "contributors_enabled": false,
@@ -303,23 +301,23 @@
           }
         },
         "protected": false,
-        "followers_count": 13557091,
-        "friends_count": 682,
-        "listed_count": 16779,
+        "followers_count": 13610170,
+        "friends_count": 683,
+        "listed_count": 16864,
         "created_at": "Mon Oct 26 23:57:28 +0000 2009",
         "favourites_count": 12,
         "utc_offset": -21600,
         "time_zone": "Chihuahua",
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 31340,
+        "statuses_count": 31370,
         "lang": "en",
         "status": {
-          "created_at": "Thu May 07 21:08:25 +0000 2015",
-          "id": 596421349008154600,
-          "id_str": "596421349008154624",
-          "text": "Jammin https://t.co/Htb0E0US1K",
-          "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+          "created_at": "Tue May 12 01:48:20 +0000 2015",
+          "id": 597941345911713800,
+          "id_str": "597941345911713793",
+          "text": "Gingerbread man records has got its first platinum record ! Congrats to @jamielawsonuk and the Australian team. That's so awesome x",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
           "in_reply_to_status_id_str": null,
@@ -330,27 +328,27 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 2555,
-          "favorite_count": 5306,
+          "retweet_count": 4056,
+          "favorite_count": 12399,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
-            "urls": [
+            "user_mentions": [
               {
-                "url": "https://t.co/Htb0E0US1K",
-                "expanded_url": "https://instagram.com/p/2ZS5JCkpDc/",
-                "display_url": "instagram.com/p/2ZS5JCkpDc/",
+                "screen_name": "jamielawsonuk",
+                "name": "jamie lawson",
+                "id": 57678632,
+                "id_str": "57678632",
                 "indices": [
-                  7,
-                  30
+                  72,
+                  86
                 ]
               }
-            ]
+            ],
+            "urls": []
           },
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "en"
         },
         "contributors_enabled": false,
@@ -422,115 +420,76 @@
           }
         },
         "protected": false,
-        "followers_count": 235548,
-        "friends_count": 2691,
-        "listed_count": 712,
+        "followers_count": 236234,
+        "friends_count": 2695,
+        "listed_count": 718,
         "created_at": "Fri Mar 09 18:27:44 +0000 2012",
-        "favourites_count": 5560,
+        "favourites_count": 5572,
         "utc_offset": 3600,
         "time_zone": "Dublin",
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 7561,
+        "statuses_count": 7577,
         "lang": "en",
         "status": {
-          "created_at": "Thu May 07 20:08:19 +0000 2015",
-          "id": 596406225157419000,
-          "id_str": "596406225157419008",
-          "text": "That's our night sorted then #dayoff #wineandcheeseparty #wherearewe @ South Medford, OR https://t.co/mKfTAeg5oE",
-          "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+          "created_at": "Tue May 12 05:19:30 +0000 2015",
+          "id": 597994485167984600,
+          "id_str": "597994485167984642",
+          "text": "Band &amp; Crew night out! Lots of fine wine and food! We couldn't do our show without these legends! Love these guys! http://t.co/saVh888XK1",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
           "in_reply_to_status_id_str": null,
           "in_reply_to_user_id": null,
           "in_reply_to_user_id_str": null,
           "in_reply_to_screen_name": null,
-          "geo": {
-            "type": "Point",
-            "coordinates": [
-              42.30997499,
-              -122.85262542
-            ]
-          },
-          "coordinates": {
-            "type": "Point",
-            "coordinates": [
-              -122.85262542,
-              42.30997499
-            ]
-          },
-          "place": {
-            "id": "7520fc0be21c62bf",
-            "url": "https://api.twitter.com/1.1/geo/id/7520fc0be21c62bf.json",
-            "place_type": "city",
-            "name": "Medford",
-            "full_name": "Medford, OR",
-            "country_code": "US",
-            "country": "United States",
-            "contained_within": [],
-            "bounding_box": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -122.96154,
-                    42.2887262
-                  ],
-                  [
-                    -122.776437,
-                    42.2887262
-                  ],
-                  [
-                    -122.776437,
-                    42.3984516
-                  ],
-                  [
-                    -122.96154,
-                    42.3984516
-                  ]
-                ]
-              ]
-            },
-            "attributes": {}
-          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
           "contributors": null,
-          "retweet_count": 19,
-          "favorite_count": 62,
+          "retweet_count": 24,
+          "favorite_count": 95,
           "entities": {
-            "hashtags": [
-              {
-                "text": "dayoff",
-                "indices": [
-                  29,
-                  36
-                ]
-              },
-              {
-                "text": "wineandcheeseparty",
-                "indices": [
-                  37,
-                  56
-                ]
-              },
-              {
-                "text": "wherearewe",
-                "indices": [
-                  57,
-                  68
-                ]
-              }
-            ],
+            "hashtags": [],
             "symbols": [],
             "user_mentions": [],
-            "urls": [
+            "urls": [],
+            "media": [
               {
-                "url": "https://t.co/mKfTAeg5oE",
-                "expanded_url": "https://instagram.com/p/2ZMA9lvXSP/",
-                "display_url": "instagram.com/p/2ZMA9lvXSP/",
+                "id": 597994479803445200,
+                "id_str": "597994479803445248",
                 "indices": [
-                  89,
-                  112
-                ]
+                  119,
+                  141
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEyAz6JUMAAfNAm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEyAz6JUMAAfNAm.jpg",
+                "url": "http://t.co/saVh888XK1",
+                "display_url": "pic.twitter.com/saVh888XK1",
+                "expanded_url": "http://twitter.com/Kodaline/status/597994485167984642/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 340,
+                    "h": 453,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 800,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 768,
+                    "h": 1024,
+                    "resize": "fit"
+                  }
+                }
               }
             ]
           },
@@ -590,22 +549,22 @@
           }
         },
         "protected": false,
-        "followers_count": 4487211,
+        "followers_count": 4513462,
         "friends_count": 9,
-        "listed_count": 8427,
+        "listed_count": 8449,
         "created_at": "Wed Oct 01 18:46:32 +0000 2008",
         "favourites_count": 1130,
         "utc_offset": 28800,
         "time_zone": "Hong Kong",
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 25234,
+        "statuses_count": 25299,
         "lang": "en",
         "status": {
-          "created_at": "Thu May 07 20:00:37 +0000 2015",
-          "id": 596404286835261400,
-          "id_str": "596404286835261440",
-          "text": "How to do math: 1. Write down question. 2. Cry.",
+          "created_at": "Tue May 12 05:00:18 +0000 2015",
+          "id": 597989655980679200,
+          "id_str": "597989655980679168",
+          "text": "When your football stuck under the car http://t.co/semdLwQ5ag http://t.co/8MEr6szu0L",
           "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
@@ -617,16 +576,36 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 1272,
-          "favorite_count": 1370,
+          "retweet_count": 1464,
+          "favorite_count": 968,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [],
-            "urls": []
+            "urls": [
+              {
+                "url": "http://t.co/semdLwQ5ag",
+                "expanded_url": "http://9gag.com/gag/azEzLPK?ref=tp",
+                "display_url": "9gag.com/gag/azEzLPK?re…",
+                "indices": [
+                  39,
+                  61
+                ]
+              },
+              {
+                "url": "http://t.co/8MEr6szu0L",
+                "expanded_url": "http://twitter.com/9GAG/status/597989655980679168/photo/1",
+                "display_url": "pic.twitter.com/8MEr6szu0L",
+                "indices": [
+                  62,
+                  84
+                ]
+              }
+            ]
           },
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "en"
         },
         "contributors_enabled": false,
@@ -668,7 +647,7 @@
         },
         "protected": false,
         "followers_count": 4,
-        "friends_count": 21,
+        "friends_count": 22,
         "listed_count": 0,
         "created_at": "Wed Apr 22 17:50:46 +0000 2015",
         "favourites_count": 0,
@@ -676,14 +655,14 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 6,
+        "statuses_count": 8,
         "lang": "en",
         "status": {
-          "created_at": "Sun May 03 11:50:59 +0000 2015",
-          "id": 594831515919482900,
-          "id_str": "594831515919482880",
-          "text": "http://t.co/D0XXie6wI4 #summer #seaside",
-          "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+          "created_at": "Sun May 10 14:10:18 +0000 2015",
+          "id": 597403291237113900,
+          "id_str": "597403291237113856",
+          "text": "Great soundtrack #HansZimmer https://t.co/NSY1DZdO4X",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
           "in_reply_to_status_id_str": null,
@@ -694,22 +673,15 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 1,
-          "favorite_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "entities": {
             "hashtags": [
               {
-                "text": "summer",
+                "text": "HansZimmer",
                 "indices": [
-                  23,
-                  30
-                ]
-              },
-              {
-                "text": "seaside",
-                "indices": [
-                  31,
-                  39
+                  17,
+                  28
                 ]
               }
             ],
@@ -717,12 +689,12 @@
             "user_mentions": [],
             "urls": [
               {
-                "url": "http://t.co/D0XXie6wI4",
-                "expanded_url": "http://m.youtube.com/watch?v=NrI-UBIB8Jk",
-                "display_url": "m.youtube.com/watch?v=NrI-UB…",
+                "url": "https://t.co/NSY1DZdO4X",
+                "expanded_url": "https://www.youtube.com/watch?v=-yOZEiHLuVU",
+                "display_url": "youtube.com/watch?v=-yOZEi…",
                 "indices": [
-                  0,
-                  22
+                  29,
+                  52
                 ]
               }
             ]
@@ -730,7 +702,7 @@
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
-          "lang": "und"
+          "lang": "en"
         },
         "contributors_enabled": false,
         "is_translator": false,

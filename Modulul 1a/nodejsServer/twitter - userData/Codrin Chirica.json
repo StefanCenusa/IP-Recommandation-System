@@ -1,0 +1,1468 @@
+{
+  "profile": {
+    "id": "3214696955",
+    "username": "Codrin_chirica",
+    "displayName": "Codrin Chirica",
+    "photos": [
+      {
+        "value": "https://pbs.twimg.com/profile_images/592800646149050369/oxBG9uh9_normal.jpg"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":3214696955,\"id_str\":\"3214696955\",\"name\":\"Codrin Chirica\",\"screen_name\":\"Codrin_chirica\",\"location\":\"\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":2,\"friends_count\":9,\"listed_count\":0,\"created_at\":\"Mon Apr 27 21:19:07 +0000 2015\",\"favourites_count\":0,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"en\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/592800646149050369\\/oxBG9uh9_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/592800646149050369\\/oxBG9uh9_normal.jpg\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 3214696955,
+      "id_str": "3214696955",
+      "name": "Codrin Chirica",
+      "screen_name": "Codrin_chirica",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2,
+      "friends_count": 9,
+      "listed_count": 0,
+      "created_at": "Mon Apr 27 21:19:07 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 0,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/592800646149050369/oxBG9uh9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/592800646149050369/oxBG9uh9_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [],
+  "friendsList": {
+    "users": [
+      {
+        "id": 63253045,
+        "id_str": "63253045",
+        "name": "Monster Energy",
+        "screen_name": "MonsterEnergy",
+        "location": "Monster Energy",
+        "description": "#UnleashTheBeast",
+        "url": "http://t.co/Hpqsg1Mnws",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Hpqsg1Mnws",
+                "expanded_url": "http://www.facebook.com/MonsterEnergy",
+                "display_url": "facebook.com/MonsterEnergy",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2346958,
+        "friends_count": 791,
+        "listed_count": 21746,
+        "created_at": "Wed Aug 05 20:51:48 +0000 2009",
+        "favourites_count": 5077,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 8946,
+        "lang": "en",
+        "status": {
+          "created_at": "Mon May 11 21:08:49 +0000 2015",
+          "id": 597871000886214700,
+          "id_str": "597871000886214656",
+          "text": "RT @XGames: Metallica is going to headline #XGames Austin in June!\n\nTickets are on sale now » http://t.co/WWzFr4FtBM http://t.co/Av9ARRTKPn",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Mon May 11 15:00:13 +0000 2015",
+            "id": 597778240208535600,
+            "id_str": "597778240208535552",
+            "text": "Metallica is going to headline #XGames Austin in June!\n\nTickets are on sale now » http://t.co/WWzFr4FtBM http://t.co/Av9ARRTKPn",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1084,
+            "favorite_count": 1772,
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "XGames",
+                  "indices": [
+                    31,
+                    38
+                  ]
+                }
+              ],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": [
+                {
+                  "url": "http://t.co/WWzFr4FtBM",
+                  "expanded_url": "http://XGames.com/Tickets",
+                  "display_url": "XGames.com/Tickets",
+                  "indices": [
+                    82,
+                    104
+                  ]
+                }
+              ],
+              "media": [
+                {
+                  "id": 597778239466053600,
+                  "id_str": "597778239466053632",
+                  "indices": [
+                    105,
+                    127
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/CEu8JEHVIAAEhn-.jpg",
+                  "media_url_https": "https://pbs.twimg.com/media/CEu8JEHVIAAEhn-.jpg",
+                  "url": "http://t.co/Av9ARRTKPn",
+                  "display_url": "pic.twitter.com/Av9ARRTKPn",
+                  "expanded_url": "http://twitter.com/XGames/status/597778240208535552/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                    "large": {
+                      "w": 1024,
+                      "h": 598,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    },
+                    "small": {
+                      "w": 340,
+                      "h": 198,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "w": 600,
+                      "h": 350,
+                      "resize": "fit"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 1084,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "XGames",
+                "indices": [
+                  43,
+                  50
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "XGames",
+                "name": "X Games",
+                "id": 18954398,
+                "id_str": "18954398",
+                "indices": [
+                  3,
+                  10
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/WWzFr4FtBM",
+                "expanded_url": "http://XGames.com/Tickets",
+                "display_url": "XGames.com/Tickets",
+                "indices": [
+                  94,
+                  116
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 597778239466053600,
+                "id_str": "597778239466053632",
+                "indices": [
+                  117,
+                  139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEu8JEHVIAAEhn-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEu8JEHVIAAEhn-.jpg",
+                "url": "http://t.co/Av9ARRTKPn",
+                "display_url": "pic.twitter.com/Av9ARRTKPn",
+                "expanded_url": "http://twitter.com/XGames/status/597778240208535552/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 1024,
+                    "h": 598,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 198,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 350,
+                    "resize": "fit"
+                  }
+                },
+                "source_status_id": 597778240208535600,
+                "source_status_id_str": "597778240208535552",
+                "source_user_id": 18954398,
+                "source_user_id_str": "18954398"
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441482406894133250/QVqSmlcx.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441482406894133250/QVqSmlcx.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458743306109743104/-8JaYDtf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458743306109743104/-8JaYDtf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63253045/1429481749",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 99972077,
+        "id_str": "99972077",
+        "name": "Ken Block",
+        "screen_name": "kblock43",
+        "location": "Utah",
+        "description": "I am Hoonigan",
+        "url": "http://t.co/kw1kVOjUdu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/kw1kVOjUdu",
+                "expanded_url": "http://www.kenblockracing.com",
+                "display_url": "kenblockracing.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 431880,
+        "friends_count": 72,
+        "listed_count": 2010,
+        "created_at": "Mon Dec 28 15:06:31 +0000 2009",
+        "favourites_count": 8,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2263,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 10 08:16:44 +0000 2015",
+          "id": 597314314114994200,
+          "id_str": "597314314114994176",
+          "text": "Much better day in Rally Otago today, @AlexGelsomino and I won the second leg of the rally! http://t.co/JERvpPX8Nz",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 104,
+          "favorite_count": 278,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "AlexGelsomino",
+                "name": "Alex Gelsomino",
+                "id": 30049425,
+                "id_str": "30049425",
+                "indices": [
+                  38,
+                  52
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 597314273308586000,
+                "id_str": "597314273308585984",
+                "indices": [
+                  92,
+                  114
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEoWKrfUMAAfGAC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEoWKrfUMAAfGAC.jpg",
+                "url": "http://t.co/JERvpPX8Nz",
+                "display_url": "pic.twitter.com/JERvpPX8Nz",
+                "expanded_url": "http://twitter.com/kblock43/status/597314314114994176/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 600,
+                    "h": 399,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 226,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 682,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/531711151/bg2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/531711151/bg2.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580511483613843456/_8s-at8T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580511483613843456/_8s-at8T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99972077/1426186237",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 38679388,
+        "id_str": "38679388",
+        "name": "Gmail",
+        "screen_name": "gmail",
+        "location": "Mountain View, CA",
+        "description": "News, tips and tricks from the Gmail team. Need help? Fly on over to our Help Center or forum.",
+        "url": "http://t.co/t07FedBKq3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/t07FedBKq3",
+                "expanded_url": "http://www.gmail.com",
+                "display_url": "gmail.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4580049,
+        "friends_count": 50,
+        "listed_count": 17303,
+        "created_at": "Fri May 08 14:53:10 +0000 2009",
+        "favourites_count": 6,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 748,
+        "lang": "en",
+        "status": {
+          "created_at": "Mon May 11 22:05:04 +0000 2015",
+          "id": 597885160076353500,
+          "id_str": "597885160076353536",
+          "text": "RT @googlecalendar: Is it Friday yet? #MondayMotivation http://t.co/AZGSjnuelb",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Mon May 11 21:59:13 +0000 2015",
+            "id": 597883684771921900,
+            "id_str": "597883684771921920",
+            "text": "Is it Friday yet? #MondayMotivation http://t.co/AZGSjnuelb",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 28,
+            "favorite_count": 64,
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "MondayMotivation",
+                  "indices": [
+                    18,
+                    35
+                  ]
+                }
+              ],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": [],
+              "media": [
+                {
+                  "id": 597883684423802900,
+                  "id_str": "597883684423802880",
+                  "indices": [
+                    36,
+                    58
+                  ],
+                  "media_url": "http://pbs.twimg.com/media/CEwcCxMVIAAZ1wH.png",
+                  "media_url_https": "https://pbs.twimg.com/media/CEwcCxMVIAAZ1wH.png",
+                  "url": "http://t.co/AZGSjnuelb",
+                  "display_url": "pic.twitter.com/AZGSjnuelb",
+                  "expanded_url": "http://twitter.com/googlecalendar/status/597883684771921920/photo/1",
+                  "type": "photo",
+                  "sizes": {
+                    "small": {
+                      "w": 340,
+                      "h": 204,
+                      "resize": "fit"
+                    },
+                    "large": {
+                      "w": 506,
+                      "h": 305,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "w": 506,
+                      "h": 305,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "w": 150,
+                      "h": 150,
+                      "resize": "crop"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 28,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "MondayMotivation",
+                "indices": [
+                  38,
+                  55
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "googlecalendar",
+                "name": "Google Calendar",
+                "id": 38267947,
+                "id_str": "38267947",
+                "indices": [
+                  3,
+                  18
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 597883684423802900,
+                "id_str": "597883684423802880",
+                "indices": [
+                  56,
+                  78
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEwcCxMVIAAZ1wH.png",
+                "media_url_https": "https://pbs.twimg.com/media/CEwcCxMVIAAZ1wH.png",
+                "url": "http://t.co/AZGSjnuelb",
+                "display_url": "pic.twitter.com/AZGSjnuelb",
+                "expanded_url": "http://twitter.com/googlecalendar/status/597883684771921920/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 340,
+                    "h": 204,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 506,
+                    "h": 305,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 506,
+                    "h": 305,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                },
+                "source_status_id": 597883684771921900,
+                "source_status_id_str": "597883684771921920",
+                "source_user_id": 38267947,
+                "source_user_id_str": "38267947"
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BDBDBD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/156251513/twitter_bg2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/156251513/twitter_bg2.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540202282982199297/Cerqh45i_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/540202282982199297/Cerqh45i_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38679388/1428528729",
+        "profile_link_color": "D72D32",
+        "profile_sidebar_border_color": "DDDDDD",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 10228272,
+        "id_str": "10228272",
+        "name": "YouTube",
+        "screen_name": "YouTube",
+        "location": "San Bruno, CA",
+        "description": "Tweets on music, trends and all that is awesome in the world of YouTube.",
+        "url": "http://t.co/F3fLcfnBVf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/F3fLcfnBVf",
+                "expanded_url": "http://youtube.com",
+                "display_url": "youtube.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 50775408,
+        "friends_count": 890,
+        "listed_count": 77078,
+        "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+        "favourites_count": 837,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 13654,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue May 12 02:00:03 +0000 2015",
+          "id": 597944294494883800,
+          "id_str": "597944294494883840",
+          "text": "Got funk? https://t.co/qfbWuhQbQy http://t.co/MxUEZju2NB",
+          "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 125,
+          "favorite_count": 422,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/qfbWuhQbQy",
+                "expanded_url": "https://goo.gl/Ne30Ew",
+                "display_url": "goo.gl/Ne30Ew",
+                "indices": [
+                  10,
+                  33
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 597944294369001500,
+                "id_str": "597944294369001472",
+                "indices": [
+                  34,
+                  56
+                ],
+                "media_url": "http://pbs.twimg.com/media/CExTKu1WAAAZNda.png",
+                "media_url_https": "https://pbs.twimg.com/media/CExTKu1WAAAZNda.png",
+                "url": "http://t.co/MxUEZju2NB",
+                "display_url": "pic.twitter.com/MxUEZju2NB",
+                "expanded_url": "http://twitter.com/YouTube/status/597944294494883840/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 714,
+                    "h": 404,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 192,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 339,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "AF0000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451389902429491200/Rrlh09IC.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451389902429491200/Rrlh09IC.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594161567471636480/N1pw817W_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/594161567471636480/N1pw817W_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1427819765",
+        "profile_link_color": "C9191D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 56505125,
+        "id_str": "56505125",
+        "name": "Google Chrome",
+        "screen_name": "googlechrome",
+        "location": "Mountain View, California",
+        "description": "The official Twitter account for the Google Chrome browser, OS, Chromebooks, Chromecast, and Web Store",
+        "url": "http://t.co/oQ8wOFCb4x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/oQ8wOFCb4x",
+                "expanded_url": "http://google.com/chrome",
+                "display_url": "google.com/chrome",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5164640,
+        "friends_count": 85,
+        "listed_count": 15015,
+        "created_at": "Mon Jul 13 21:51:56 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 898,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 10 17:03:35 +0000 2015",
+          "id": 597446897712914400,
+          "id_str": "597446897712914432",
+          "text": "Happy #MothersDay! Check out all the ways to say \"Thanks, Mom\" (or whatever makes her 😄​) in this @ChromeExp http://t.co/LmcvDCQXd4",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 71,
+          "favorite_count": 148,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "MothersDay",
+                "indices": [
+                  6,
+                  17
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "ChromeExp",
+                "name": "Chrome Experiments",
+                "id": 163975783,
+                "id_str": "163975783",
+                "indices": [
+                  98,
+                  108
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/LmcvDCQXd4",
+                "expanded_url": "http://goo.gl/lVDk7b",
+                "display_url": "goo.gl/lVDk7b",
+                "indices": [
+                  109,
+                  131
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/179133269/white.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/179133269/white.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1281767185/product_logo_256_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281767185/product_logo_256_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56505125/1424759163",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 382267114,
+        "id_str": "382267114",
+        "name": "Android",
+        "screen_name": "Android",
+        "location": "Mountain View, CA",
+        "description": "News, tips, and tricks direct from the Android team.",
+        "url": "http://t.co/WHg9n3cypK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WHg9n3cypK",
+                "expanded_url": "http://android.com",
+                "display_url": "android.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7515384,
+        "friends_count": 42,
+        "listed_count": 20701,
+        "created_at": "Thu Sep 29 19:34:47 +0000 2011",
+        "favourites_count": 62,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 678,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 10 15:00:15 +0000 2015",
+          "id": 597415859548790800,
+          "id_str": "597415859548790784",
+          "text": "Give your selfie stick a rest and take a family photo using #AndroidWear this #MothersDay. Here’s how: http://t.co/3n5aKdMn4u",
+          "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 167,
+          "favorite_count": 296,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "AndroidWear",
+                "indices": [
+                  60,
+                  72
+                ]
+              },
+              {
+                "text": "MothersDay",
+                "indices": [
+                  78,
+                  89
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 597415859431338000,
+                "id_str": "597415859431337986",
+                "indices": [
+                  103,
+                  125
+                ],
+                "media_url": "http://pbs.twimg.com/media/CEpyjxSW8AI8zrq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CEpyjxSW8AI8zrq.jpg",
+                "url": "http://t.co/3n5aKdMn4u",
+                "display_url": "pic.twitter.com/3n5aKdMn4u",
+                "expanded_url": "http://twitter.com/Android/status/597415859548790784/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 1024,
+                    "h": 512,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 300,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 170,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A5C639",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436087884/TwitterX4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436087884/TwitterX4.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522418773723074561/AyreX9yf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522418773723074561/AyreX9yf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382267114/1413389307",
+        "profile_link_color": "A5C639",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 20793816,
+        "id_str": "20793816",
+        "name": "Amazon",
+        "screen_name": "amazon",
+        "location": "Seattle, Washington",
+        "description": "Official Twitter of http://t.co/0ZCjSBnYuz. Contact @AmazonHelp for customer support.",
+        "url": "http://t.co/Z2A4m7UeSv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Z2A4m7UeSv",
+                "expanded_url": "http://www.amazon.com",
+                "display_url": "amazon.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/0ZCjSBnYuz",
+                "expanded_url": "http://Amazon.com",
+                "display_url": "Amazon.com",
+                "indices": [
+                  20,
+                  42
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1843034,
+        "friends_count": 62,
+        "listed_count": 11590,
+        "created_at": "Fri Feb 13 18:39:54 +0000 2009",
+        "favourites_count": 388,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 13399,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue May 12 00:09:29 +0000 2015",
+          "id": 597916468936867800,
+          "id_str": "597916468936867840",
+          "text": "RT @AmazonKindle: 25 books to start your week: http://t.co/ctLoK7ckRK #kindleselect25",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Tue May 12 00:00:17 +0000 2015",
+            "id": 597914151340494800,
+            "id_str": "597914151340494848",
+            "text": "25 books to start your week: http://t.co/ctLoK7ckRK #kindleselect25",
+            "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 17,
+            "favorite_count": 50,
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "kindleselect25",
+                  "indices": [
+                    52,
+                    67
+                  ]
+                }
+              ],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": [
+                {
+                  "url": "http://t.co/ctLoK7ckRK",
+                  "expanded_url": "http://amzn.to/1PCVkqM",
+                  "display_url": "amzn.to/1PCVkqM",
+                  "indices": [
+                    29,
+                    51
+                  ]
+                }
+              ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+          },
+          "retweet_count": 17,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "kindleselect25",
+                "indices": [
+                  70,
+                  85
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "AmazonKindle",
+                "name": "Kindle",
+                "id": 84249568,
+                "id_str": "84249568",
+                "indices": [
+                  3,
+                  16
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/ctLoK7ckRK",
+                "expanded_url": "http://amzn.to/1PCVkqM",
+                "display_url": "amzn.to/1PCVkqM",
+                "indices": [
+                  47,
+                  69
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9ACAF8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448506280982753280/GZ6eb7ux.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448506280982753280/GZ6eb7ux.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528320705125838848/q7o83VPn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528320705125838848/q7o83VPn_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20793816/1430787785",
+        "profile_link_color": "FF9900",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 20536157,
+        "id_str": "20536157",
+        "name": "Google",
+        "screen_name": "google",
+        "location": "Mountain View, CA",
+        "description": "News and updates from Google",
+        "url": "http://t.co/twxHxOtTvy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/twxHxOtTvy",
+                "expanded_url": "http://www.google.com",
+                "display_url": "google.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11018934,
+        "friends_count": 444,
+        "listed_count": 90122,
+        "created_at": "Tue Feb 10 19:14:39 +0000 2009",
+        "favourites_count": 348,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6548,
+        "lang": "en",
+        "status": {
+          "created_at": "Mon May 11 23:58:30 +0000 2015",
+          "id": 597913704504631300,
+          "id_str": "597913704504631296",
+          "text": "@Moonstreuxx No problem! Happy to help.",
+          "source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+          "truncated": false,
+          "in_reply_to_status_id": 597889210368925700,
+          "in_reply_to_status_id_str": "597889210368925696",
+          "in_reply_to_user_id": 2165215368,
+          "in_reply_to_user_id_str": "2165215368",
+          "in_reply_to_screen_name": "Moonstreuxx",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Moonstreuxx",
+                "name": "SK Moon",
+                "id": 2165215368,
+                "id_str": "2165215368",
+                "indices": [
+                  0,
+                  12
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163714586/yY9JMq3S.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163714586/yY9JMq3S.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522909800191901697/FHCGSQg0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522909800191901697/FHCGSQg0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20536157/1430507292",
+        "profile_link_color": "0000CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EBEFF9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 19023470,
+        "id_str": "19023470",
+        "name": "George Buhnici",
+        "screen_name": "gbuhnici",
+        "location": "ÜT: 44.4399894,26.1274041",
+        "description": "Jurnalist, blogger, pasionat de orice are motor!",
+        "url": "http://t.co/xkkByRRHZC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/xkkByRRHZC",
+                "expanded_url": "http://www.buhnici.ro",
+                "display_url": "buhnici.ro",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 129345,
+        "friends_count": 496,
+        "listed_count": 169,
+        "created_at": "Thu Jan 15 14:38:25 +0000 2009",
+        "favourites_count": 479,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6085,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue May 12 05:56:42 +0000 2015",
+          "id": 598003846405840900,
+          "id_str": "598003846405840896",
+          "text": "WORLD YOUNG LEFT BACK 2014/2015 | Handball Planet http://t.co/1Y89ZwLVPt",
+          "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/1Y89ZwLVPt",
+                "expanded_url": "http://fb.me/29orVVByk",
+                "display_url": "fb.me/29orVVByk",
+                "indices": [
+                  50,
+                  72
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1677599015/George_Buhnici_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1677599015/George_Buhnici_twitter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19023470/1398427076",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      }
+    ],
+    "next_cursor": 0,
+    "next_cursor_str": "0",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0"
+  }
+}
