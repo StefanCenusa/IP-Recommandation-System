@@ -1,0 +1,182 @@
+{
+  "profile": {
+    "id": "3201667893",
+    "username": "TatarcanAndrada",
+    "displayName": "Andrada Tatarcan",
+    "photos": [
+      {
+        "value": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":3201667893,\"id_str\":\"3201667893\",\"name\":\"Andrada Tatarcan\",\"screen_name\":\"TatarcanAndrada\",\"location\":\"\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":0,\"friends_count\":1,\"listed_count\":0,\"created_at\":\"Fri Apr 24 16:58:40 +0000 2015\",\"favourites_count\":0,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"ro\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 3201667893,
+      "id_str": "3201667893",
+      "name": "Andrada Tatarcan",
+      "screen_name": "TatarcanAndrada",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 1,
+      "listed_count": 0,
+      "created_at": "Fri Apr 24 16:58:40 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 0,
+      "lang": "ro",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [],
+  "friendsList": {
+    "users": [
+      {
+        "id": 2261896528,
+        "id_str": "2261896528",
+        "name": "Corina",
+        "screen_name": "morecorina",
+        "location": "Iasi / Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Sat Jan 04 12:56:00 +0000 2014",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu Apr 16 14:51:58 +0000 2015",
+          "id": 588716467920699400,
+          "id_str": "588716467920699392",
+          "text": "I scored 378 in Logic Dots on Android! Are your logic skills up to the challenge? #games #android #free https://t.co/4WCb9iZsug",
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "games",
+                "indices": [
+                  82,
+                  88
+                ]
+              },
+              {
+                "text": "android",
+                "indices": [
+                  89,
+                  97
+                ]
+              },
+              {
+                "text": "free",
+                "indices": [
+                  98,
+                  103
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/4WCb9iZsug",
+                "expanded_url": "https://app.adjust.io/sjm9pi",
+                "display_url": "app.adjust.io/sjm9pi",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590428315661508608/fohdDFf0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590428315661508608/fohdDFf0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2261896528/1388841471",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      }
+    ],
+    "next_cursor": 0,
+    "next_cursor_str": "0",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0"
+  }
+}
