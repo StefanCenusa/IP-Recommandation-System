@@ -12,7 +12,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Set;
 
 import javax.json.Json;
 import javax.json.JsonArray;
@@ -54,10 +56,28 @@ public class Main {
         List<String> lista1 = new ArrayList();
         for (JsonObject result : results.getValuesAs(JsonObject.class)) {
 
-            //System.out.println(result.getString("annotation", ""));
+        	lista1.add(result.getString("annotation", ""));
             index++;
-            interesBuilder.add("interest", result.getString("annotation", ""));
-            shortTermBuilder.add(interesBuilder);
+
+        }
+        
+        HashMap<String, Integer> countMap = new HashMap<String, Integer>();
+        for (String string : lista1) {
+            if (!countMap.containsKey(string)) {
+                countMap.put(string, 1);
+                interesBuilder.add("interest", string);
+                shortTermBuilder.add(interesBuilder);
+            } else {
+                Integer count = countMap.get(string);
+                count = count + 1;
+                countMap.put(string, count);
+            }
+        }
+
+        Set<String> keySet = countMap.keySet();
+        System.out.println("HashMap");
+        for (String string : keySet) {
+            System.out.println(string + " : " + countMap.get(string));
         }
         nameBuilder.add("displayName", userName);
         JsonObject username = nameBuilder.build();
