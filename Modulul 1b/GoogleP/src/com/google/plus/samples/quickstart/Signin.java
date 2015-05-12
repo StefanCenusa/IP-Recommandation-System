@@ -347,7 +347,7 @@ public class Signin {
           // Set output to file
           PrintStream out = null;
           try {
-              out = new PrintStream(new FileOutputStream("users/" + mePerson.getDisplayName().toString() + "Profile"+ ".json"));
+              out = new PrintStream(new FileOutputStream("users/" + mePerson.getDisplayName().toString() + " Profile"+ ".json"));
           } catch (FileNotFoundException e) {
               e.printStackTrace();
           }
@@ -368,15 +368,8 @@ public class Signin {
           //System.out.println(GSON.toJson(listActivities));
 
             // Execute the request for the first page
-          PrintStream out1 = null;
-          try {
-              out1 = new PrintStream(new FileOutputStream("users/" + mePerson.getDisplayName().toString() + "Activity" + ".json"));
-          } catch (FileNotFoundException e) {
-              e.printStackTrace();
-          }
-          System.setOut(out1);
           ActivityFeed activityFeed = listActivities.execute();
-          System.out.println(GSON.toJson(activityFeed.getItems()));
+          System.out.println("\n" + GSON.toJson(activityFeed.getItems()));
 
             // Unwrap the request and extract the pieces we want
           List<Activity> activities = activityFeed.getItems();
