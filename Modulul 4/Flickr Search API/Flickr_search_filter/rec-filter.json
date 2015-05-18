@@ -1,0 +1,8 @@
+{
+ "sports":["boxing","basketball","gymnastics","cycling","rugby","fishing","badminton","ice-hockey","swimming","golf","racquet","racket"],
+ "music":["genre","artist","album","band","release year"],
+ "television":["comedy","soap opera", "thriller","drama","horror","slice of life","live show"],
+ "food":["shaworma","pizza","chef","asisstant","fork","silverware","spoon","cake"],
+ "games":["rpg","fps","mmorpg","moba","multiplayer","singleplayer","genre","rating"],
+ "cults":["christian","exorcism","satan","baptism","religion","death"]
+}

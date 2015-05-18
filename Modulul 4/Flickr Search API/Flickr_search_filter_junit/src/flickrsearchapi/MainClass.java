@@ -1,3 +1,5 @@
+package flickrsearchapi;
+
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.Set;
@@ -17,7 +19,7 @@ import com.flickr4java.flickr.photos.SearchParameters;
 
 public class MainClass 
 {
-	static String apikey = "c92e512b5660b965567537adf8ce62e7";
+    static String apikey = "c92e512b5660b965567537adf8ce62e7";
     static String secret = "dcb4558e2c6e27cc";
     static Flickr flickr = new Flickr(apikey, secret, new REST()); 
     
