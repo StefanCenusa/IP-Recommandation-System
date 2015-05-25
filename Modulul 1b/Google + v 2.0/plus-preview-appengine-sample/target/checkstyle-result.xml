@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="C:\Users\MnM\Desktop\IP - 25.05 - 2\google-api-java-client.samples\plus-preview-appengine-sample\src\main\java\com\google\api\services\samples\plus\PlusBasicServlet.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\MnM\Desktop\IP - 25.05 - 2\google-api-java-client.samples\plus-preview-appengine-sample\src\main\java\com\google\api\services\samples\plus\PlusSampleAuthCallbackServlet.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\MnM\Desktop\IP - 25.05 - 2\google-api-java-client.samples\plus-preview-appengine-sample\src\main\java\com\google\api\services\samples\plus\PlusSampleServlet.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\MnM\Desktop\IP - 25.05 - 2\google-api-java-client.samples\plus-preview-appengine-sample\src\main\java\com\google\api\services\samples\plus\Utils.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+</checkstyle>
