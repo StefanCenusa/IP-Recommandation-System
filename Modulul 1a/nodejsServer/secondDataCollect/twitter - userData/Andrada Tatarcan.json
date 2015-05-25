@@ -1,0 +1,1706 @@
+{
+  "profile": {
+    "id": "3201667893",
+    "username": "TatarcanAndrada",
+    "displayName": "Andrada Tatarcan",
+    "photos": [
+      {
+        "value": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"
+      }
+    ],
+    "provider": "twitter",
+    "_raw": "{\"id\":3201667893,\"id_str\":\"3201667893\",\"name\":\"Andrada Tatarcan\",\"screen_name\":\"TatarcanAndrada\",\"location\":\"\",\"profile_location\":null,\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":1,\"friends_count\":13,\"listed_count\":0,\"created_at\":\"Fri Apr 24 16:58:40 +0000 2015\",\"favourites_count\":0,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"ro\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_4_normal.png\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"suspended\":false,\"needs_phone_verification\":false}",
+    "_json": {
+      "id": 3201667893,
+      "id_str": "3201667893",
+      "name": "Andrada Tatarcan",
+      "screen_name": "TatarcanAndrada",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 13,
+      "listed_count": 0,
+      "created_at": "Fri Apr 24 16:58:40 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 0,
+      "lang": "ro",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "_accessLevel": "read"
+  },
+  "tweets": [],
+  "friendsList": {
+    "users": [
+      {
+        "id": 21111883,
+        "id_str": "21111883",
+        "name": "Demi Lovato",
+        "screen_name": "ddlovato",
+        "location": "DALLAS/LA",
+        "description": "DEMI available NOW: http://t.co/jaN8CAiKlf \n#DEMIWORLDTOUR tix on sale now!\n#HopeDealer here: http://t.co/pQ7hlXn20J\nhttp://t.co/IyWIFHxiFA for exclusive access",
+        "url": "http://t.co/22U3uW7E8a",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/22U3uW7E8a",
+                "expanded_url": "http://www.facebook.com/DemiLovato",
+                "display_url": "facebook.com/DemiLovato",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/jaN8CAiKlf",
+                "expanded_url": "http://smarturl.it/dla1",
+                "display_url": "smarturl.it/dla1",
+                "indices": [
+                  20,
+                  42
+                ]
+              },
+              {
+                "url": "http://t.co/pQ7hlXn20J",
+                "expanded_url": "http://bit.ly/1JSMmbo",
+                "display_url": "bit.ly/1JSMmbo",
+                "indices": [
+                  94,
+                  116
+                ]
+              },
+              {
+                "url": "http://t.co/IyWIFHxiFA",
+                "expanded_url": "http://Lovato.Club",
+                "display_url": "Lovato.Club",
+                "indices": [
+                  117,
+                  139
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 28466128,
+        "friends_count": 361,
+        "listed_count": 104536,
+        "created_at": "Tue Feb 17 18:02:08 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": -21600,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 12939,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 24 06:01:46 +0000 2015",
+          "id": 602353778638004200,
+          "id_str": "602353778638004225",
+          "text": "🎶 This workout's gonna hurt like a motherfuckaaaa.... 🎶 #remix",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 11610,
+          "favorite_count": 17636,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "remix",
+                "indices": [
+                  56,
+                  62
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511933200940019712/CKxPa76o.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511933200940019712/CKxPa76o.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545272273851006977/xXEBkyWw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545272273851006977/xXEBkyWw_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111883/1419872598",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "B9BEB8",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 17919972,
+        "id_str": "17919972",
+        "name": "Taylor Swift",
+        "screen_name": "taylorswift13",
+        "location": "",
+        "description": "Born in 1989.",
+        "url": "http://t.co/AjT5TRgs35",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AjT5TRgs35",
+                "expanded_url": "http://www.taylorswift.com",
+                "display_url": "taylorswift.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 57958476,
+        "friends_count": 199,
+        "listed_count": 120516,
+        "created_at": "Sat Dec 06 10:10:54 +0000 2008",
+        "favourites_count": 748,
+        "utc_offset": 3600,
+        "time_zone": "Dublin",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3434,
+        "lang": "en",
+        "status": {
+          "created_at": "Mon May 25 04:01:47 +0000 2015",
+          "id": 602685972841652200,
+          "id_str": "602685972841652224",
+          "text": "So @BBCR1 #BigWeekend was amazing! INSANE crowd! Can't wait to be back in the UK for our Hyde Park show next month:) http://t.co/GJPjCP851S",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 8735,
+          "favorite_count": 22590,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "BigWeekend",
+                "indices": [
+                  10,
+                  21
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "BBCR1",
+                "name": "BBC Radio 1",
+                "id": 7111412,
+                "id_str": "7111412",
+                "indices": [
+                  3,
+                  9
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 602685964507598800,
+                "id_str": "602685964507598848",
+                "indices": [
+                  117,
+                  139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CF0rsQmW0AA5anu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CF0rsQmW0AA5anu.jpg",
+                "url": "http://t.co/GJPjCP851S",
+                "display_url": "pic.twitter.com/GJPjCP851S",
+                "expanded_url": "http://twitter.com/taylorswift13/status/602685972841652224/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 600,
+                    "h": 332,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 640,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 340,
+                    "h": 188,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687293757/6d2ec27f32fa8cc2fcb7e6a9eada9945.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687293757/6d2ec27f32fa8cc2fcb7e6a9eada9945.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1409286315",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 24741517,
+        "id_str": "24741517",
+        "name": "Nicole Scherzinger",
+        "screen_name": "NicoleScherzy",
+        "location": "All around the world!",
+        "description": "SINGER, Songwriter, Actress, Dancer, Philanthropist. GOD, Gratitude, Grace. Staring in @NBCICanDoThat starting May 26! Follow me on IG: @NicoleScherzy",
+        "url": "http://t.co/AbFoyCdZpi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AbFoyCdZpi",
+                "expanded_url": "http://facebook.com/NicoleScherzinger",
+                "display_url": "facebook.com/NicoleScherzin…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5255791,
+        "friends_count": 281,
+        "listed_count": 12776,
+        "created_at": "Mon Mar 16 18:28:02 +0000 2009",
+        "favourites_count": 777,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 5295,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 24 22:28:40 +0000 2015",
+          "id": 602602137906909200,
+          "id_str": "602602137906909184",
+          "text": "It's almost time!! Two days left until the premiere of #ICanDoThat! Tune in on Tuesday at 10/9c on @nbc 😘 https://t.co/72kBVZlfPV",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 105,
+          "favorite_count": 217,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "ICanDoThat",
+                "indices": [
+                  55,
+                  66
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "nbc",
+                "name": "NBC",
+                "id": 26585095,
+                "id_str": "26585095",
+                "indices": [
+                  99,
+                  103
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/72kBVZlfPV",
+                "expanded_url": "https://instagram.com/p/3FNkYBIbFz/",
+                "display_url": "instagram.com/p/3FNkYBIbFz/",
+                "indices": [
+                  106,
+                  129
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/523974934729482240/ETSVEHm3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/523974934729482240/ETSVEHm3.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528242089205989378/v_Lj0JKp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528242089205989378/v_Lj0JKp_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24741517/1413760292",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 344634424,
+        "id_str": "344634424",
+        "name": "Rafa Nadal",
+        "screen_name": "RafaelNadal",
+        "location": "Manacor",
+        "description": "Tennis player.",
+        "url": "http://t.co/BiwLj0th4U",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/BiwLj0th4U",
+                "expanded_url": "http://www.rafaelnadal.com/",
+                "display_url": "rafaelnadal.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7924868,
+        "friends_count": 78,
+        "listed_count": 21261,
+        "created_at": "Fri Jul 29 10:44:02 +0000 2011",
+        "favourites_count": 18,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 1922,
+        "lang": "es",
+        "status": {
+          "created_at": "Fri May 22 08:11:14 +0000 2015",
+          "id": 601661584608473100,
+          "id_str": "601661584608473089",
+          "text": "I’ve joined #Instagram!!! &amp; I’m starting with a contest for all of you! This is my account: @rafaelnadal Thank you ;) http://t.co/e9KoyrcAoT",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 814,
+          "favorite_count": 1851,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "Instagram",
+                "indices": [
+                  12,
+                  22
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "RafaelNadal",
+                "name": "Rafa Nadal",
+                "id": 344634424,
+                "id_str": "344634424",
+                "indices": [
+                  96,
+                  108
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 601661583643775000,
+                "id_str": "601661583643774976",
+                "indices": [
+                  122,
+                  144
+                ],
+                "media_url": "http://pbs.twimg.com/media/CFmIBcgWEAACgCg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CFmIBcgWEAACgCg.jpg",
+                "url": "http://t.co/e9KoyrcAoT",
+                "display_url": "pic.twitter.com/e9KoyrcAoT",
+                "expanded_url": "http://twitter.com/RafaelNadal/status/601661584608473089/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 340,
+                    "h": 255,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 600,
+                    "h": 450,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 768,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115991559/9bad21643487dc1d2b2b017458b25131.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115991559/9bad21643487dc1d2b2b017458b25131.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479276943691350016/MB5wjrRE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479276943691350016/MB5wjrRE_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344634424/1403103488",
+        "profile_link_color": "050505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC0D6",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 323171189,
+        "id_str": "323171189",
+        "name": "Delia",
+        "screen_name": "Delia_Official",
+        "location": "Bucharest, Romania",
+        "description": "http://t.co/vpaNE4ZPar \r\nhttp://t.co/AiB5vPbXAn",
+        "url": "http://t.co/BXAL47dzQg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/BXAL47dzQg",
+                "expanded_url": "http://www.deliaofficial.ro/",
+                "display_url": "deliaofficial.ro",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/vpaNE4ZPar",
+                "expanded_url": "http://fb.com/OfficialDelia",
+                "display_url": "fb.com/OfficialDelia",
+                "indices": [
+                  0,
+                  22
+                ]
+              },
+              {
+                "url": "http://t.co/AiB5vPbXAn",
+                "expanded_url": "http://instagram.com/instadelia",
+                "display_url": "instagram.com/instadelia",
+                "indices": [
+                  25,
+                  47
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 154434,
+        "friends_count": 418,
+        "listed_count": 125,
+        "created_at": "Fri Jun 24 11:24:18 +0000 2011",
+        "favourites_count": 7,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8360,
+        "lang": "en",
+        "status": {
+          "created_at": "Thu May 14 13:49:09 +0000 2015",
+          "id": 598847520534593500,
+          "id_str": "598847520534593537",
+          "text": "#CarlasDreams avec moi 😉 #CumNeNoi https://t.co/nWh9DU1AjI",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": {
+            "id": "01c86d355e71b956",
+            "url": "https://api.twitter.com/1.1/geo/id/01c86d355e71b956.json",
+            "place_type": "city",
+            "name": "Bucureşti",
+            "full_name": "Bucureşti, România",
+            "country_code": "RO",
+            "country": "România",
+            "contained_within": [],
+            "bounding_box": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    25.9636988,
+                    44.3494199
+                  ],
+                  [
+                    26.2259137,
+                    44.3494199
+                  ],
+                  [
+                    26.2259137,
+                    44.5416707
+                  ],
+                  [
+                    25.9636988,
+                    44.5416707
+                  ]
+                ]
+              ]
+            },
+            "attributes": {}
+          },
+          "contributors": null,
+          "retweet_count": 5,
+          "favorite_count": 24,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "CarlasDreams",
+                "indices": [
+                  0,
+                  13
+                ]
+              },
+              {
+                "text": "CumNeNoi",
+                "indices": [
+                  25,
+                  34
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/nWh9DU1AjI",
+                "expanded_url": "https://youtu.be/D8-g8CpXdO8",
+                "display_url": "youtu.be/D8-g8CpXdO8",
+                "indices": [
+                  35,
+                  58
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "fr"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095803113/b1ac7403d2126220eb3cef7aa940322b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095803113/b1ac7403d2126220eb3cef7aa940322b.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582513639640424448/LVU8lEts_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582513639640424448/LVU8lEts_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/323171189/1426443661",
+        "profile_link_color": "5D147A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 288333760,
+        "id_str": "288333760",
+        "name": "Maria Sharapova",
+        "screen_name": "MariaSharapova",
+        "location": "",
+        "description": "The Official Twitter Account for Maria Sharapova",
+        "url": "http://t.co/WavCIqma",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/WavCIqma",
+                "expanded_url": "http://www.mariasharapova.com/",
+                "display_url": "mariasharapova.com",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1612147,
+        "friends_count": 68,
+        "listed_count": 6013,
+        "created_at": "Tue Apr 26 17:26:43 +0000 2011",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 1587,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 24 19:44:40 +0000 2015",
+          "id": 602560866387685400,
+          "id_str": "602560866387685377",
+          "text": "So excited to share my secret to feeling beautiful on and off the court with @AvonInsider! Get the scoop: http://t.co/R3GaeN20E5",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 137,
+          "favorite_count": 428,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "AvonInsider",
+                "name": "Avon",
+                "id": 21677409,
+                "id_str": "21677409",
+                "indices": [
+                  77,
+                  89
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/R3GaeN20E5",
+                "expanded_url": "http://beautyforapurpose.avon.com/maria-sharapova-beauty/",
+                "display_url": "beautyforapurpose.avon.com/maria-sharapov…",
+                "indices": [
+                  106,
+                  128
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/763547914/5dfb873e383f5385640cfcd989a6cfde.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/763547914/5dfb873e383f5385640cfcd989a6cfde.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000033753209/9662511d7b37737076a777befa7f68fc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000033753209/9662511d7b37737076a777befa7f68fc_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288333760/1424575922",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 85603854,
+        "id_str": "85603854",
+        "name": "Jennifer Lopez",
+        "screen_name": "JLo",
+        "location": "",
+        "description": "Join me and become the girl of your Dreams—I'll be your inspiration, your coach and your workout buddy. Click the link to #BeTheGirl today.",
+        "url": "http://t.co/vSLO0yPCSr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/vSLO0yPCSr",
+                "expanded_url": "http://jlo.lk/challenge",
+                "display_url": "jlo.lk/challenge",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32156637,
+        "friends_count": 1515,
+        "listed_count": 52965,
+        "created_at": "Tue Oct 27 16:24:51 +0000 2009",
+        "favourites_count": 5177,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 6520,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 24 19:52:53 +0000 2015",
+          "id": 602562934544343000,
+          "id_str": "602562934544343041",
+          "text": "RT @bodylabforwomen: BodyLab babes, how are you staying fit this #MemorialDayWeekend? RT if you're working to #BeTheGirl of your dreams! #C…",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweeted_status": {
+            "created_at": "Sun May 24 17:46:00 +0000 2015",
+            "id": 602531005904199700,
+            "id_str": "602531005904199680",
+            "text": "BodyLab babes, how are you staying fit this #MemorialDayWeekend? RT if you're working to #BeTheGirl of your dreams! #CantStopWontStop",
+            "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 167,
+            "favorite_count": 345,
+            "entities": {
+              "hashtags": [
+                {
+                  "text": "MemorialDayWeekend",
+                  "indices": [
+                    44,
+                    63
+                  ]
+                },
+                {
+                  "text": "BeTheGirl",
+                  "indices": [
+                    89,
+                    99
+                  ]
+                },
+                {
+                  "text": "CantStopWontStop",
+                  "indices": [
+                    116,
+                    133
+                  ]
+                }
+              ],
+              "symbols": [],
+              "user_mentions": [],
+              "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+          },
+          "retweet_count": 167,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "MemorialDayWeekend",
+                "indices": [
+                  65,
+                  84
+                ]
+              },
+              {
+                "text": "BeTheGirl",
+                "indices": [
+                  110,
+                  120
+                ]
+              },
+              {
+                "text": "CantStopWontStop",
+                "indices": [
+                  137,
+                  140
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "bodylabforwomen",
+                "name": "BodyLab",
+                "id": 2880023282,
+                "id_str": "2880023282",
+                "indices": [
+                  3,
+                  19
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863017380/211d66c34680c4210534e87c8cc2ff83.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863017380/211d66c34680c4210534e87c8cc2ff83.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592675486091862016/gjZqXYfP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/592675486091862016/gjZqXYfP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85603854/1430139822",
+        "profile_link_color": "A3A3A3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A29EA8",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 26589987,
+        "id_str": "26589987",
+        "name": "Serena Williams",
+        "screen_name": "serenawilliams",
+        "location": "Somewhere over the Rainbow",
+        "description": "Living, Loving, and working to help you. http://t.co/Qony36rxEN",
+        "url": "http://t.co/XOyl21wFey",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/XOyl21wFey",
+                "expanded_url": "http://www.serenawilliams.com",
+                "display_url": "serenawilliams.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Qony36rxEN",
+                "expanded_url": "http://www.theswf.org",
+                "display_url": "theswf.org",
+                "indices": [
+                  41,
+                  63
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4674564,
+        "friends_count": 333,
+        "listed_count": 21188,
+        "created_at": "Wed Mar 25 21:00:33 +0000 2009",
+        "favourites_count": 64,
+        "utc_offset": 7200,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 12903,
+        "lang": "en",
+        "status": {
+          "created_at": "Fri May 22 23:27:07 +0000 2015",
+          "id": 601892074770792400,
+          "id_str": "601892074770792448",
+          "text": "So much fun promoting the new movie I am in with @AdamSandler and @PeterDinklage1 coming out this summer!! https://t.co/pxvkW1GiSV",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 109,
+          "favorite_count": 295,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "AdamSandler",
+                "name": "Adam Sandler",
+                "id": 316756361,
+                "id_str": "316756361",
+                "indices": [
+                  49,
+                  61
+                ]
+              },
+              {
+                "screen_name": "PeterDinklage1",
+                "name": "Peter Dinklage",
+                "id": 1285157130,
+                "id_str": "1285157130",
+                "indices": [
+                  66,
+                  81
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/pxvkW1GiSV",
+                "expanded_url": "https://twitter.com/pixelsmovie/status/601869504298123264",
+                "display_url": "twitter.com/pixelsmovie/st…",
+                "indices": [
+                  107,
+                  130
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180583958/backround.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180583958/backround.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455855230110797825/F211-yBg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455855230110797825/F211-yBg_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26589987/1431442213",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 284151683,
+        "id_str": "284151683",
+        "name": "ANTONIA ",
+        "screen_name": "AntoniaMusician",
+        "location": "Bucharest",
+        "description": "Antonia's Official account",
+        "url": "http://t.co/UMvYQ1MCyk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/UMvYQ1MCyk",
+                "expanded_url": "http://www.antoniaofficial.com",
+                "display_url": "antoniaofficial.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 204303,
+        "friends_count": 174,
+        "listed_count": 287,
+        "created_at": "Mon Apr 18 18:39:44 +0000 2011",
+        "favourites_count": 913,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2119,
+        "lang": "en",
+        "status": {
+          "created_at": "Tue Apr 28 15:06:18 +0000 2015",
+          "id": 593068729430351900,
+          "id_str": "593068729430351872",
+          "text": "@radiozu va multumesc! Va pup!",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": 593061606365536300,
+          "in_reply_to_status_id_str": "593061606365536256",
+          "in_reply_to_user_id": 16527490,
+          "in_reply_to_user_id_str": "16527490",
+          "in_reply_to_screen_name": "radiozu",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 6,
+          "favorite_count": 40,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "radiozu",
+                "name": "RadioZU ",
+                "id": 16527490,
+                "id_str": "16527490",
+                "indices": [
+                  0,
+                  8
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "pt"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840414782/85b4f9262b6210c90cec78a893be447a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840414782/85b4f9262b6210c90cec78a893be447a.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506611013030907904/9_RcLEat_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506611013030907904/9_RcLEat_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/284151683/1409620497",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 41109736,
+        "id_str": "41109736",
+        "name": "INNA",
+        "screen_name": "inna_ro",
+        "location": "Bucharest, Romania",
+        "description": "INNA - #GoodTime",
+        "url": "http://t.co/EuRPTvLy6O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/EuRPTvLy6O",
+                "expanded_url": "http://www.innaofficial.com",
+                "display_url": "innaofficial.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 873490,
+        "friends_count": 1852,
+        "listed_count": 3786,
+        "created_at": "Tue May 19 12:59:52 +0000 2009",
+        "favourites_count": 20,
+        "utc_offset": 10800,
+        "time_zone": "Bucharest",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 10614,
+        "lang": "en",
+        "status": {
+          "created_at": "Sun May 24 14:09:49 +0000 2015",
+          "id": 602476601427828700,
+          "id_str": "602476601427828737",
+          "text": "To the light ... 💙 https://t.co/yp9zp642EJ",
+          "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 61,
+          "favorite_count": 162,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/yp9zp642EJ",
+                "expanded_url": "https://instagram.com/p/3EUdV_zcoW/",
+                "display_url": "instagram.com/p/3EUdV_zcoW/",
+                "indices": [
+                  19,
+                  42
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830762021/b49a22331eba7794fa6b6d503ea7ad9a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830762021/b49a22331eba7794fa6b6d503ea7ad9a.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/537063957891018754/lt1w7-eY_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/537063957891018754/lt1w7-eY_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41109736/1416924406",
+        "profile_link_color": "0CD7E6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 3195519131,
+        "id_str": "3195519131",
+        "name": "isabela trufanda",
+        "screen_name": "IsabelaTrufanda",
+        "location": "Iasi",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 27,
+        "listed_count": 0,
+        "created_at": "Wed Apr 22 17:50:46 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10,
+        "lang": "en",
+        "status": {
+          "created_at": "Sat May 16 13:27:33 +0000 2015",
+          "id": 599566861617987600,
+          "id_str": "599566861617987585",
+          "text": "http://t.co/9SxCrDKQyD #GordonCity",
+          "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "GordonCity",
+                "indices": [
+                  23,
+                  34
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "http://t.co/9SxCrDKQyD",
+                "expanded_url": "http://m.youtube.com/watch?v=O48hUxxJxS8",
+                "display_url": "m.youtube.com/watch?v=O48hUx…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/595188327873060866/b6bnabpI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/595188327873060866/b6bnabpI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3195519131/1430738833",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 3215798205,
+        "id_str": "3215798205",
+        "name": "Viviana Lucaciu",
+        "screen_name": "vivianalucaciu",
+        "location": "Iaşi, România",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 40,
+        "listed_count": 0,
+        "created_at": "Tue Apr 28 05:55:39 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": "ro",
+        "status": {
+          "created_at": "Thu May 07 20:33:37 +0000 2015",
+          "id": 596412592257642500,
+          "id_str": "596412592257642499",
+          "text": "@TEDTalks *",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": 596108701091680300,
+          "in_reply_to_status_id_str": "596108701091680257",
+          "in_reply_to_user_id": 15492359,
+          "in_reply_to_user_id_str": "15492359",
+          "in_reply_to_screen_name": "TEDTalks",
+          "geo": null,
+          "coordinates": null,
+          "place": {
+            "id": "01ccdd82011bca00",
+            "url": "https://api.twitter.com/1.1/geo/id/01ccdd82011bca00.json",
+            "place_type": "admin",
+            "name": "Iaşi",
+            "full_name": "Iaşi, România",
+            "country_code": "RO",
+            "country": "România",
+            "contained_within": [],
+            "bounding_box": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    26.4932401,
+                    46.8193696
+                  ],
+                  [
+                    28.12719,
+                    46.8193696
+                  ],
+                  [
+                    28.12719,
+                    47.5895094
+                  ],
+                  [
+                    26.4932401,
+                    47.5895094
+                  ]
+                ]
+              ]
+            },
+            "attributes": {}
+          },
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "TEDTalks",
+                "name": "TED Talks",
+                "id": 15492359,
+                "id_str": "15492359",
+                "indices": [
+                  0,
+                  9
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596410126824820736/02zXfvLL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596410126824820736/02zXfvLL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3215798205/1431030195",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      },
+      {
+        "id": 2261896528,
+        "id_str": "2261896528",
+        "name": "Corina",
+        "screen_name": "morecorina",
+        "location": "Iasi / Romania",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 34,
+        "listed_count": 0,
+        "created_at": "Sat Jan 04 12:56:00 +0000 2014",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3,
+        "lang": "en",
+        "status": {
+          "created_at": "Mon May 11 08:00:21 +0000 2015",
+          "id": 597672578589818900,
+          "id_str": "597672578589818880",
+          "text": "@silviusutea Helloooo!",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 3215198440,
+          "in_reply_to_user_id_str": "3215198440",
+          "in_reply_to_screen_name": "silviusutea",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "silviusutea",
+                "name": "silviu s",
+                "id": 3215198440,
+                "id_str": "3215198440",
+                "indices": [
+                  0,
+                  12
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590428315661508608/fohdDFf0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590428315661508608/fohdDFf0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2261896528/1388841471",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false
+      }
+    ],
+    "next_cursor": 0,
+    "next_cursor_str": "0",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0"
+  }
+}
