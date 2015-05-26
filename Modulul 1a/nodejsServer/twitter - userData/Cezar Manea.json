@@ -600,7 +600,7 @@
           }
         },
         "protected": false,
-        "followers_count": 2920005,
+        "followers_count": 2920052,
         "friends_count": 79,
         "listed_count": 7775,
         "created_at": "Mon Apr 08 22:33:48 +0000 2013",
@@ -862,7 +862,7 @@
           }
         },
         "protected": false,
-        "followers_count": 4161317,
+        "followers_count": 4161351,
         "friends_count": 669,
         "listed_count": 14662,
         "created_at": "Wed Mar 02 21:44:22 +0000 2011",
@@ -890,7 +890,7 @@
           "place": null,
           "contributors": null,
           "retweet_count": 556,
-          "favorite_count": 1455,
+          "favorite_count": 1456,
           "entities": {
             "hashtags": [
               {
@@ -1009,7 +1009,7 @@
           }
         },
         "protected": false,
-        "followers_count": 4675120,
+        "followers_count": 4675133,
         "friends_count": 333,
         "listed_count": 21182,
         "created_at": "Wed Mar 25 21:00:33 +0000 2009",
@@ -1547,7 +1547,7 @@
           }
         },
         "protected": false,
-        "followers_count": 418838,
+        "followers_count": 418843,
         "friends_count": 2241,
         "listed_count": 9362,
         "created_at": "Tue Feb 17 18:31:24 +0000 2009",
@@ -1696,7 +1696,7 @@
           }
         },
         "protected": false,
-        "followers_count": 644105,
+        "followers_count": 644115,
         "friends_count": 451,
         "listed_count": 15691,
         "created_at": "Thu Mar 26 16:57:01 +0000 2009",
@@ -1909,7 +1909,7 @@
           }
         },
         "protected": false,
-        "followers_count": 5314199,
+        "followers_count": 5314259,
         "friends_count": 2807,
         "listed_count": 123924,
         "created_at": "Mon Mar 12 01:28:01 +0000 2007",
@@ -1918,13 +1918,13 @@
         "time_zone": "Eastern Time (US & Canada)",
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 141184,
+        "statuses_count": 141186,
         "lang": "en",
         "status": {
-          "created_at": "Tue May 26 04:18:55 +0000 2015",
-          "id": 603052670715310100,
-          "id_str": "603052670715310080",
-          "text": "This dead taxi driver's final wish was to sit in his own cab at his wake http://t.co/CBBcjpYRGE http://t.co/1zNqENmxu7",
+          "created_at": "Tue May 26 05:05:05 +0000 2015",
+          "id": 603064287624593400,
+          "id_str": "603064287624593408",
+          "text": "Sikh man who removed turban to save young boy receives a surprise thank you gift http://t.co/FISzWPuXP8 http://t.co/ZZMnDoXk5J",
           "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
           "truncated": false,
           "in_reply_to_status_id": null,
@@ -1936,36 +1936,36 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 68,
-          "favorite_count": 48,
+          "retweet_count": 40,
+          "favorite_count": 34,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [],
             "urls": [
               {
-                "url": "http://t.co/CBBcjpYRGE",
-                "expanded_url": "http://on.mash.to/1F7sWXR",
-                "display_url": "on.mash.to/1F7sWXR",
+                "url": "http://t.co/FISzWPuXP8",
+                "expanded_url": "http://on.mash.to/1erlSzT",
+                "display_url": "on.mash.to/1erlSzT",
                 "indices": [
-                  73,
-                  95
+                  81,
+                  103
                 ]
               }
             ],
             "media": [
               {
-                "id": 603052669456887800,
-                "id_str": "603052669456887809",
+                "id": 603064286936584200,
+                "id_str": "603064286936584193",
                 "indices": [
-                  96,
-                  118
+                  104,
+                  126
                 ],
-                "media_url": "http://pbs.twimg.com/media/CF55NS_UMAEMQ-l.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/CF55NS_UMAEMQ-l.jpg",
-                "url": "http://t.co/1zNqENmxu7",
-                "display_url": "pic.twitter.com/1zNqENmxu7",
-                "expanded_url": "http://twitter.com/mashable/status/603052670715310080/photo/1",
+                "media_url": "http://pbs.twimg.com/media/CF6DxheUUAEeISJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CF6DxheUUAEeISJ.jpg",
+                "url": "http://t.co/ZZMnDoXk5J",
+                "display_url": "pic.twitter.com/ZZMnDoXk5J",
+                "expanded_url": "http://twitter.com/mashable/status/603064287624593408/photo/1",
                 "type": "photo",
                 "sizes": {
                   "thumb": {
@@ -1984,8 +1984,8 @@
                     "resize": "fit"
                   },
                   "large": {
-                    "w": 1024,
-                    "h": 576,
+                    "w": 949,
+                    "h": 534,
                     "resize": "fit"
                   }
                 }
@@ -2158,7 +2158,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1536880,
+        "followers_count": 1536894,
         "friends_count": 1183,
         "listed_count": 29008,
         "created_at": "Wed Dec 05 17:26:15 +0000 2007",
@@ -2185,8 +2185,8 @@
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "retweet_count": 21,
-          "favorite_count": 13,
+          "retweet_count": 24,
+          "favorite_count": 18,
           "entities": {
             "hashtags": [],
             "symbols": [],
@@ -2608,7 +2608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1242701,
+        "followers_count": 1242706,
         "friends_count": 38,
         "listed_count": 8110,
         "created_at": "Fri Apr 17 16:30:28 +0000 2009",
@@ -2950,7 +2950,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1000227,
+        "followers_count": 1000250,
         "friends_count": 956,
         "listed_count": 20940,
         "created_at": "Mon Apr 27 15:41:54 +0000 2009",
@@ -3098,7 +3098,7 @@
           }
         },
         "protected": false,
-        "followers_count": 235145,
+        "followers_count": 235150,
         "friends_count": 297,
         "listed_count": 6422,
         "created_at": "Sun Mar 01 13:53:41 +0000 2009",
