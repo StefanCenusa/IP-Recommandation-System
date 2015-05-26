@@ -4,7 +4,7 @@ module.exports = {
         consumerSecret: "R11BTCNlEVrBqjyTy171SZlVXClwlqutsU0iKkliUZQoNdm9pk"
     },
     flickrAPI: {
-        consumerKey: "7fcb2b9d03981781ea9737a863c9985d",
-        consumerSecret: "e3a5d6c9cee1a7a5",
+        consumerKey: "02ba4687d859db81528013c89b4cb5ad",
+        consumerSecret: "c3c66ddbbcb3d4a7"
     }
 }

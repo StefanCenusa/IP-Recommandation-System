@@ -13,7 +13,7 @@ module.exports = function (passport) {
     passport.use(new TwitterStrategy({
             consumerKey: config.twitterAPI.consumerKey,
             consumerSecret: config.twitterAPI.consumerSecret,
-            callbackURL: "http://46.101.55.154:80/auth/twitter/callback"
+            callbackURL: "http://127.0.0.1:3000/auth/twitter/callback"
         },
         function (token, tokenSecret, profile, done) {
             var userJSON = {};

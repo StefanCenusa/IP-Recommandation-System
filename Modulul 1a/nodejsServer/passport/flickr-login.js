@@ -13,7 +13,7 @@ module.exports = function (passport) {
     passport.use(new FlickrStrategy({
             consumerKey: config.flickrAPI.consumerKey,
             consumerSecret: config.flickrAPI.consumerSecret,
-            callbackURL: "http://46.101.55.154//auth/flickr/callback"
+            callbackURL: "http://127.0.0.1:3000/auth/flickr/callback"
         },
         function (token, tokenSecret, profile, done) {
             var userJSON = {};
